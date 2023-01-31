@@ -1,0 +1,25 @@
+.env
+/node_modules
+/config/dev.js
+
+# dependencies
+/naver-auto-front/node_modules
+/naver-auto-front/.pnp
+/naver-auto-front/pnp.js
+
+# testing
+/naver-auto-front/coverage
+
+# production
+/naver-auto-front/build
+
+# misc
+/naver-auto-front/DS_Store
+/naver-auto-front/env.local
+/naver-auto-front/env.development.local
+/naver-auto-front/env.test.local
+/naver-auto-front/env.production.local
+
+/naver-auto-front/npm-debug.log*
+/naver-auto-front/yarn-debug.log*
+/naver-auto-front/yarn-error.log*
