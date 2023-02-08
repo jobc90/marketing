@@ -12,6 +12,9 @@ import LockOutlinedIcon from "@mui/icons-material/LockOutlined";
 import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
+import { useDispatch } from "react-redux";
+import { modifyUserData } from "./redux/userData";
+export const API_BASE_URL = process.env.REACT_APP_API_HOST;
 
 function Copyright(props) {
   return (
@@ -33,7 +36,9 @@ function Copyright(props) {
 
 const theme = createTheme();
 
-export default function SignIn() {
+export default function SignIn({ getAuth }) {
+  const dispatch = useDispatch();
+
   const handleSubmit = async (event) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
@@ -45,7 +50,7 @@ export default function SignIn() {
     const requestOptions = {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      //   credentials: "include",
+      credentials: "include",
       body: JSON.stringify({
         email: data.get("email"),
         password: data.get("password"),
@@ -53,11 +58,23 @@ export default function SignIn() {
     };
 
     const res = await fetch(
-      "http://localhost/api/users/login",
+      `${API_BASE_URL}/api/users/login`,
       requestOptions
     ).then((res) => res.json());
 
-    console.log(res);
+    if (!res.loginSuccess) {
+      alert(res.message);
+    }
+
+    const userData = await getAuth();
+    dispatch(
+      modifyUserData({
+        _id: userData._id,
+        email: userData.email,
+        name: userData.name,
+        title: userData.title,
+      })
+    );
   };
 
   return (
