@@ -136,7 +136,10 @@ router.post("/naverauth", auth, async (req, res) => {
 
 router.post("/priceset", auth, async (req, res) => {
   const page = await browser.newPage();
+  console.log("페이지1 오픈");
+
   const page2 = await browser.newPage();
+  console.log("페이지2 오픈");
   try {
     //[SET ID & PW]
     const naver_id = req.body.id;
@@ -149,6 +152,8 @@ router.post("/priceset", auth, async (req, res) => {
     await page2.goto(URL, {
       waitUntil: "networkidle2",
     });
+    console.log("비교 url 이동");
+
     var lowestPrice = await page2.$eval(
       "#__next > div > div.style_container__D_mqP > div.style_inner__ZMO5R > div.style_content_wrap__78pql > div.style_content__v25xx > div > div.summary_info_area__NP6l5 > div.lowestPrice_price_area__VDBfj > div.lowestPrice_low_price__Ypmmk > em",
       (el) => {
