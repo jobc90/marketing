@@ -23,7 +23,7 @@ router.get("/", auth, async (req, res) => {
 });
 
 router.post("/logintest", auth, async (req, res) => {
-  const loginBrowser = await puppeteer
+  global.loginBrowser = await puppeteer
     .launch({
       args: ["--no-sandbox", "--disable-setuid-sandbox"],
       // headless: false, //headless는 test할때만 true로 두고, 배포 시엔 반드시 false
@@ -31,21 +31,21 @@ router.post("/logintest", auth, async (req, res) => {
     })
     .then(console.log("login test Br open"));
   try {
-    const page = await loginBrowser.newPage();
+    global.loginPage = await loginBrowser.newPage();
 
     // [SET ID & PW]
     // const naver_id = "ghwls4498";
     // const naver_pw = "dbal2413";
     const naver_id = req.body.id;
     const naver_pw = req.body.password;
-    await page.goto(
+    await loginPage.goto(
       "https://sell.smartstore.naver.com/#/products/origin-list",
       {
         waitUntil: "networkidle2",
       }
     );
 
-    await page.click(
+    await loginPage.click(
       "#root > div > div.Layout_wrap__3uDBh > div > div > div.Login_login_area__cMnCU.Login_type__nM7Ia > div.Login_login_content__Ia6Rm > ul > li:nth-child(2) > button"
     );
     //[login modal]
@@ -62,13 +62,56 @@ router.post("/logintest", auth, async (req, res) => {
       await data[2].click("#log\\.login");
     });
 
-    await page.waitForSelector("#seller-content > ui-view ");
+    //2단계인증 if
+    await loginPage.waitForTimeout(3000);
+    console.log(loginPage.url().replace(/.+\/\/|www.|\..+/g, ""));
+    if (loginPage.url().replace(/.+\/\/|www.|\..+/g, "") == "accounts") {
+      //2단계 인증
+      console.log("Two-factor authentication");
+      await loginPage.click(
+        "#root > div > div.Layout_wrap__3uDBh > div > div > div > ul > li.TwoStepCertify_choice_item__2qian.TwoStepCertify_on__2Y_8N > div > div.TextField_text_field__x1Wtz.TextField_field_email__2BzY5.TextField_disabled__2mxn3 > div > div > div.TextField_btn_box__2TdIe > button"
+      );
+      await loginPage.waitForTimeout(500);
+      await loginPage.click(
+        "#root > div.PopupDimmed_dimmed__25S58 > div > div > div > button.PopupCommon_btn_confirm__2d0k8"
+      );
+      res.json({ success: true, message: "2단계 인증" });
+    } else {
+      await loginPage.waitForSelector("#seller-content > ui-view ");
+      loginBrowser.close();
+      console.log("loginOK");
+      res.json({ success: true, message: "접속 테스트 성공" });
+    }
+  } catch (err) {
+    // 에러 핸들링
+    loginBrowser.close();
+    console.log(err);
+    res.json({ success: false, err });
+  }
+});
+
+router.post("/naverauth", auth, async (req, res) => {
+  try {
+    //loginPage 인증번호 입력 후, 확인.
+    // await loginPage.hover(
+    //   "#root > div > div.Layout_wrap__3uDBh > div > div > div > ul > li.TwoStepCertify_choice_item__2qian.TwoStepCertify_on__2Y_8N > div > div.TwoStepCertify_certify_num__1m4OX > div > div.TextField_ipt_item__1AOpe.TextField_on__39QRo > div > div.TextField_ipt_box__3aPWa > div > input"
+    // );document.querySelector("#root > div > div.Layout_wrap__3uDBh > div > div > div > ul > li.TwoStepCertify_choice_item__2qian.TwoStepCertify_on__2Y_8N > div > div.TwoStepCertify_certify_num__1m4OX > div > div.TextField_ipt_item__1AOpe > div > div.TextField_ipt_box__3aPWa > div > input")
+    await loginPage.type(
+      "#root > div > div.Layout_wrap__3uDBh > div > div > div > ul > li.TwoStepCertify_choice_item__2qian.TwoStepCertify_on__2Y_8N > div > div.TwoStepCertify_certify_num__1m4OX > div > div.TextField_ipt_item__1AOpe > div > div.TextField_ipt_box__3aPWa > div > input",
+      req.body.code
+    );
+    await loginPage.waitForTimeout(500);
+    await loginPage.click(
+      "#root > div > div.Layout_wrap__3uDBh > div > div > div > div.TwoStepCertify_btn_box__3TSSP > button"
+    );
+    await loginPage.waitForSelector("#seller-content > ui-view ");
     loginBrowser.close();
     console.log("loginOK");
     res.json({ success: true, message: "접속 테스트 성공" });
   } catch (err) {
     // 에러 핸들링
     loginBrowser.close();
+    console.log(err);
     res.json({ success: false, err });
   }
 });

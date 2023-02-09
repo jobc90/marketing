@@ -96,6 +96,26 @@ export default function Account() {
 
     alert(res.message);
     setTesting(false);
+    if (res.message == "2단계 인증") {
+      setTesting(true);
+
+      var inputString = prompt("2단계 인증 번호를 입력해주세요 [이메일 인증]"); //나중에 이메일도 가져오기(api)
+      const requestOptions2 = {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        credentials: "include",
+        body: JSON.stringify({
+          code: inputString,
+        }),
+      };
+
+      const res2 = await fetch(
+        `${API_BASE_URL}/controller/naverauth`,
+        requestOptions2
+      ).then((res) => res.json());
+      alert(res2.message);
+      setTesting(false);
+    }
   };
 
   const saveAccount = async (event) => {
