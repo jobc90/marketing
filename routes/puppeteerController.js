@@ -23,15 +23,8 @@ router.get("/", auth, async (req, res) => {
 });
 
 router.post("/logintest", auth, async (req, res) => {
-  global.loginBrowser = await puppeteer
-    .launch({
-      args: ["--no-sandbox", "--disable-setuid-sandbox"],
-      // headless: false, //headless는 test할때만 true로 두고, 배포 시엔 반드시 false
-      executablePath: executablePath(),
-    })
-    .then(console.log("login test Br open"));
   try {
-    global.loginPage = await loginBrowser.newPage();
+    global.loginPage = await browser.newPage();
 
     // [SET ID & PW]
     // const naver_id = "ghwls4498";
@@ -49,7 +42,7 @@ router.post("/logintest", auth, async (req, res) => {
       "#root > div > div.Layout_wrap__3uDBh > div > div > div.Login_login_area__cMnCU.Login_type__nM7Ia > div.Login_login_content__Ia6Rm > ul > li:nth-child(2) > button"
     );
     //[login modal]
-    await loginBrowser.pages().then(async (data) => {
+    await browser.pages().then(async (data) => {
       await data[2].waitForNavigation();
       await data[2].evaluate(
         (id, pw) => {
@@ -78,13 +71,31 @@ router.post("/logintest", auth, async (req, res) => {
       res.json({ success: true, message: "2단계 인증" });
     } else {
       await loginPage.waitForSelector("#seller-content > ui-view ");
-      loginBrowser.close();
+      browser.close();
+      (async () => {
+        global.browser = await puppeteer
+          .launch({
+            args: ["--no-sandbox", "--disable-setuid-sandbox"],
+            // headless: false, //headless는 test할때만 true로 두고, 배포 시엔 반드시 false
+            executablePath: executablePath(),
+          })
+          .then(console.log("pupp open"));
+      })();
       console.log("loginOK");
       res.json({ success: true, message: "접속 테스트 성공" });
     }
   } catch (err) {
     // 에러 핸들링
-    loginBrowser.close();
+    browser.close();
+    (async () => {
+      global.browser = await puppeteer
+        .launch({
+          args: ["--no-sandbox", "--disable-setuid-sandbox"],
+          // headless: false, //headless는 test할때만 true로 두고, 배포 시엔 반드시 false
+          executablePath: executablePath(),
+        })
+        .then(console.log("pupp open"));
+    })();
     console.log(err);
     res.json({ success: false, err });
   }
@@ -100,17 +111,40 @@ router.post("/naverauth", auth, async (req, res) => {
       "#root > div > div.Layout_wrap__3uDBh > div > div > div > ul > li.TwoStepCertify_choice_item__2qian.TwoStepCertify_on__2Y_8N > div > div.TwoStepCertify_certify_num__1m4OX > div > div.TextField_ipt_item__1AOpe > div > div.TextField_ipt_box__3aPWa > div > input",
       req.body.code
     );
-    await loginPage.waitForTimeout(500);
+    await loginPage.waitForTimeout(1000);
     await loginPage.click(
       "#root > div > div.Layout_wrap__3uDBh > div > div > div > div.TwoStepCertify_btn_box__3TSSP > button"
     );
+    await loginPage.waitForTimeout(1000);
+    await loginPage.click(
+      "#root > div.PopupDimmed_dimmed__25S58 > div > div > div > button.PopupCommon_btn_confirm__2d0k8"
+    );
+    //#root > div > div.Layout_wrap__3uDBh > div > div > div > div.TwoStepCertify_btn_box__3TSSP > button
     await loginPage.waitForSelector("#seller-content > ui-view ");
-    loginBrowser.close();
+    browser.close();
+    (async () => {
+      global.browser = await puppeteer
+        .launch({
+          args: ["--no-sandbox", "--disable-setuid-sandbox"],
+          // headless: false, //headless는 test할때만 true로 두고, 배포 시엔 반드시 false
+          executablePath: executablePath(),
+        })
+        .then(console.log("pupp open"));
+    })();
     console.log("loginOK");
     res.json({ success: true, message: "접속 테스트 성공" });
   } catch (err) {
     // 에러 핸들링
-    loginBrowser.close();
+    browser.close();
+    (async () => {
+      global.browser = await puppeteer
+        .launch({
+          args: ["--no-sandbox", "--disable-setuid-sandbox"],
+          // headless: false, //headless는 test할때만 true로 두고, 배포 시엔 반드시 false
+          executablePath: executablePath(),
+        })
+        .then(console.log("pupp open"));
+    })();
     console.log(err);
     res.json({ success: false, err });
   }
