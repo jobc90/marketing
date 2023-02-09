@@ -32,7 +32,7 @@ router.post("/logintest", auth, async (req, res) => {
     const naver_id = req.body.id;
     const naver_pw = req.body.password;
     await loginPage.goto(
-      "https://sell.smartstore.naver.com/#/products/origin-list",
+      "https://accounts.commerce.naver.com/login?url=https%3A%2F%2Fsell.smartstore.naver.com%2F%23%2Flogin-callback",
       {
         waitUntil: "networkidle2",
       }
@@ -71,16 +71,8 @@ router.post("/logintest", auth, async (req, res) => {
       res.json({ success: true, message: "2단계 인증" });
     } else {
       await loginPage.waitForSelector("#seller-content > ui-view ");
-      browser.close();
-      (async () => {
-        global.browser = await puppeteer
-          .launch({
-            args: ["--no-sandbox", "--disable-setuid-sandbox"],
-            // headless: false, //headless는 test할때만 true로 두고, 배포 시엔 반드시 false
-            executablePath: executablePath(),
-          })
-          .then(console.log("pupp open"));
-      })();
+      loginPage.close();
+
       console.log("loginOK");
       res.json({ success: true, message: "접속 테스트 성공" });
     }
@@ -121,16 +113,8 @@ router.post("/naverauth", auth, async (req, res) => {
     );
     //#root > div > div.Layout_wrap__3uDBh > div > div > div > div.TwoStepCertify_btn_box__3TSSP > button
     await loginPage.waitForSelector("#seller-content > ui-view ");
-    browser.close();
-    (async () => {
-      global.browser = await puppeteer
-        .launch({
-          args: ["--no-sandbox", "--disable-setuid-sandbox"],
-          // headless: false, //headless는 test할때만 true로 두고, 배포 시엔 반드시 false
-          executablePath: executablePath(),
-        })
-        .then(console.log("pupp open"));
-    })();
+    loginPage.close();
+
     console.log("loginOK");
     res.json({ success: true, message: "접속 테스트 성공" });
   } catch (err) {
@@ -151,13 +135,6 @@ router.post("/naverauth", auth, async (req, res) => {
 });
 
 router.post("/priceset", auth, async (req, res) => {
-  // const priceSettingBrowser = await puppeteer
-  //   .launch({
-  //     args: ["--no-sandbox", "--disable-setuid-sandbox"],
-  //     headless: false, //headless는 test할때만 true로 두고, 배포 시엔 반드시 false
-  //     executablePath: executablePath(),
-  //   })
-  //   .then(console.log("price Setting Br open"));
   const page = await browser.newPage();
   const page2 = await browser.newPage();
   try {
