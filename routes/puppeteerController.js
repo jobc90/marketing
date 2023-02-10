@@ -15,6 +15,9 @@ puppeteer.use(StealthPlugin());
       executablePath: executablePath(),
     })
     .then(console.log("pupp open"));
+  await browser.userAgent(
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+  );
 })();
 
 //test
@@ -87,6 +90,9 @@ router.post("/logintest", auth, async (req, res) => {
           executablePath: executablePath(),
         })
         .then(console.log("pupp open"));
+      await browser.userAgent(
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+      );
     })();
     console.log(err);
     res.json({ success: false, err });
@@ -128,6 +134,9 @@ router.post("/naverauth", auth, async (req, res) => {
           executablePath: executablePath(),
         })
         .then(console.log("pupp open"));
+      await browser.userAgent(
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+      );
     })();
     console.log(err);
     res.json({ success: false, err });
@@ -332,6 +341,9 @@ router.post("/priceset", auth, async (req, res) => {
           executablePath: executablePath(),
         })
         .then(console.log("pupp open"));
+      await browser.userAgent(
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+      );
     })();
     res.json({ success: false, err });
   }
