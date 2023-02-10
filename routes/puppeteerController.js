@@ -154,6 +154,7 @@ router.post("/priceset", auth, async (req, res) => {
     });
     console.log("비교 url 이동");
     console.log(URL);
+    console.log(page2.url());
 
     // var lowestPrice = await page2.$eval(
     //   "#__next > div > div.style_container__D_mqP > div.style_inner__ZMO5R > div.style_content_wrap__78pql > div.style_content__v25xx > div > div.summary_info_area__NP6l5 > div.lowestPrice_price_area__VDBfj > div.lowestPrice_low_price__Ypmmk > em",
@@ -179,10 +180,13 @@ router.post("/priceset", auth, async (req, res) => {
       const el = document.querySelector(
         "#__next > div > div.style_container__D_mqP > div.style_inner__ZMO5R > div.style_content_wrap__78pql > div.style_content__v25xx > div > div.summary_info_area__NP6l5 > div.lowestPrice_price_area__VDBfj > div.lowestPrice_low_price__Ypmmk > em"
       );
+      if (!el) {
+        return 0;
+      }
 
       // .replace(",", "");
       // var price = el.innerText.replace(",", "");
-      return el.innerHTML;
+      return 1;
     });
     // let lowestPrice = "15000";
     console.log("값 가져오기");
