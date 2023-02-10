@@ -161,31 +161,27 @@ router.post("/priceset", auth, async (req, res) => {
     //     return el.innerText.replace(",", "");
     //   }
     // );
-    await page2.waitForTimeout(1000);
-    const getPrice = async () => {
-      return await page2.evaluate(async () => {
-        return await new Promise((resolve) => {
-          var price = document
-            .querySelector(
-              "#__next > div > div.style_container__D_mqP > div.style_inner__ZMO5R > div.style_content_wrap__78pql > div.style_content__v25xx > div > div.summary_info_area__NP6l5 > div.lowestPrice_price_area__VDBfj > div.lowestPrice_low_price__Ypmmk > em"
-            )
-            .innerText.replace(",", "");
-          resolve(price);
-        });
-      });
-    };
-    const lowestPrice = await getPrice();
-    // const lowestPrice = await page2.evaluate(() => {
-    //   // const el = document.querySelector(
-    //   //   "#__next > div > div.style_container__D_mqP > div.style_inner__ZMO5R > div.style_content_wrap__78pql > div.style_content__v25xx > div > div.summary_info_area__NP6l5 > div.lowestPrice_price_area__VDBfj > div.lowestPrice_low_price__Ypmmk > em"
-    //   // );
-    //   // var price = el.innerText.replace(",", "");
-    //   return document
-    //     .querySelector(
-    //       "#__next > div > div.style_container__D_mqP > div.style_inner__ZMO5R > div.style_content_wrap__78pql > div.style_content__v25xx > div > div.summary_info_area__NP6l5 > div.lowestPrice_price_area__VDBfj > div.lowestPrice_low_price__Ypmmk > em"
-    //     )
-    //     .innerText.replace(",", "");
-    // });
+
+    // const getPrice = async () => {
+    //   return await page2.evaluate(async () => {
+    //     return await new Promise((resolve) => {
+    //       var price = document
+    //         .querySelector(
+    //           "#__next > div > div.style_container__D_mqP > div.style_inner__ZMO5R > div.style_content_wrap__78pql > div.style_content__v25xx > div > div.summary_info_area__NP6l5 > div.lowestPrice_price_area__VDBfj > div.lowestPrice_low_price__Ypmmk > em"
+    //         )
+    //         .innerText.replace(",", "");
+    //       resolve(price);
+    //     });
+    //   });
+    // };
+    // const lowestPrice = await getPrice();
+    const lowestPrice = await page2.evaluate(() => {
+      const el = document.querySelector(
+        "#__next > div > div.style_container__D_mqP > div.style_inner__ZMO5R > div.style_content_wrap__78pql > div.style_content__v25xx > div > div.summary_info_area__NP6l5 > div.lowestPrice_price_area__VDBfj > div.lowestPrice_low_price__Ypmmk > em"
+      );
+      // var price = el.innerText.replace(",", "");
+      return 1500;
+    });
     // let lowestPrice = "15000";
     console.log("값 가져오기");
 
