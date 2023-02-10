@@ -64,6 +64,7 @@ router.post("/logintest", auth, async (req, res) => {
     if (loginPage.url().replace(/.+\/\/|www.|\..+/g, "") == "accounts") {
       //2단계 인증
       console.log("Two-factor authentication");
+      console.log(loginPage.url());
       await loginPage.click(
         "#root > div > div.Layout_wrap__3uDBh > div > div > div > ul > li.TwoStepCertify_choice_item__2qian.TwoStepCertify_on__2Y_8N > div > div.TextField_text_field__x1Wtz.TextField_field_email__2BzY5.TextField_disabled__2mxn3 > div > div > div.TextField_btn_box__2TdIe > button"
       );
