@@ -180,7 +180,7 @@ router.post("/priceset", auth, async (req, res) => {
         .querySelector(
           "#__next > div > div.style_container__D_mqP > div.style_inner__ZMO5R > div.style_content_wrap__78pql > div.style_content__v25xx > div > div.summary_info_area__NP6l5 > div.lowestPrice_price_area__VDBfj > div.lowestPrice_low_price__Ypmmk > em"
         )
-        .getInnerHTML();
+        .innerHTML();
       // .replace(",", "");
       // var price = el.innerText.replace(",", "");
       return 1500;
