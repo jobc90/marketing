@@ -162,11 +162,15 @@ router.post("/priceset", auth, async (req, res) => {
     //   }
     // );
     const lowestPrice = await page2.evaluate(() => {
-      // var el = document.querySelector(
+      // const el = document.querySelector(
       //   "#__next > div > div.style_container__D_mqP > div.style_inner__ZMO5R > div.style_content_wrap__78pql > div.style_content__v25xx > div > div.summary_info_area__NP6l5 > div.lowestPrice_price_area__VDBfj > div.lowestPrice_low_price__Ypmmk > em"
       // );
       // var price = el.innerText.replace(",", "");
-      return 1500;
+      return document
+        .querySelector(
+          "#__next > div > div.style_container__D_mqP > div.style_inner__ZMO5R > div.style_content_wrap__78pql > div.style_content__v25xx > div > div.summary_info_area__NP6l5 > div.lowestPrice_price_area__VDBfj > div.lowestPrice_low_price__Ypmmk > em"
+        )
+        .innerText.replace(",", "");
     });
     // let lowestPrice = "15000";
     console.log("값 가져오기");
