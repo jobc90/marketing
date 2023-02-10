@@ -161,6 +161,7 @@ router.post("/priceset", auth, async (req, res) => {
     //     return el.innerText.replace(",", "");
     //   }
     // );
+    await page2.waitForTimeout(1000);
     const getPrice = async () => {
       return await page2.evaluate(async () => {
         return await new Promise((resolve) => {
