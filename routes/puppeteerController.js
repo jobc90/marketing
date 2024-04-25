@@ -13543,7 +13543,6 @@ router.post("/visitHomepage", async (req, res) => {
         await page.waitForTimeout(2000);
         const companyPages = await browser.pages();
         const companyPage = companyPages[1];
-        console.log(companyPage);
         if (!companyPage || typeof companyPage === "undefined") {
           resultData[value] = {
             companyName,

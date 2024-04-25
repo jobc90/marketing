@@ -21,8 +21,8 @@ const createBrowsers = async () => {
   const promises = Array(EXTRA * service)
     .fill()
     .map(async (_, i) => {
-      const xvfb = spawn("Xvfb", [":99", "-screen", "0", "1024x768x24", "-ac"]);
-      process.env.DISPLAY = ":99";
+      // const xvfb = spawn("Xvfb", [":99", "-screen", "0", "1024x768x24", "-ac"]);
+      // process.env.DISPLAY = ":99";
       let hashCode = crypto.randomBytes(20).toString("hex");
       const browser = await puppeteer.launch({
         args: ["--no-sandbox", "--disable-setuid-sandbox"],
