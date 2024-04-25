@@ -1,0 +1,4491 @@
+"46484287": {
+            "companyName": "리뷰플레이스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.reviewplace.co.kr",
+            "jobTitle": "기본급+성과급 별도/7시간 근무 광고제안 마케터모집",
+            "employeeCount": "126 명  (2021년 기준)",
+            "profit": "null"
+        },
+        "47299003": {
+            "companyName": "(주)히포케이메논",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[웰시투자그룹] 세일즈 마케터(암호화폐영업) 신입 공개채용",
+            "employeeCount": "13 명  (2023년 기준)",
+            "profit": "null"
+        },
+        "47417944": {
+            "companyName": "디에스글로벌(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.dsgl.net",
+            "jobTitle": "상품기획 경력직 채용",
+            "employeeCount": "71 명  (2021년 기준)",
+            "profit": "564억 4,590만원                                                                    (2021년 기준)"
+        },
+        "47418962": {
+            "companyName": "(주)링티",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://lingteateam.notion.site/lingtea-b67f647672da4dfe8500447d36e370cc",
+            "jobTitle": "[(주)링티 PM 전략팀 PM (Product Manager)]",
+            "employeeCount": "null",
+            "profit": "341억 3,247만원                                                                    (2021년 기준)"
+        },
+        "47429678": {
+            "companyName": "(주)넥스트챕터",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "tonextchapter.com",
+            "jobTitle": "Content Marketing Intern",
+            "employeeCount": "56 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47431276": {
+            "companyName": "삼양식품(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.samyangfood.co.kr",
+            "jobTitle": "삼양식품-브랜드기획2팀 브랜드전략기획파트 채용",
+            "employeeCount": "544 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47439461": {
+            "companyName": "에스앤비욘드인터내셔널",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "온라인 쇼핑몰 MD 경력자 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47442470": {
+            "companyName": "(주)더아이엠",
+            "phoneNumbers": "null",
+            "email": "contact@iamkbeauty.com",
+            "homepageUrl": "https://theim-corp.com/",
+            "jobTitle": "(주)더아이엠 일본 B2B 화장품 영업 경력 담당자 채용",
+            "employeeCount": "11 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47443180": {
+            "companyName": "(주)코리아아츠",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "ikac.kr",
+            "jobTitle": "한국예술원 입학홍보처 주임 공고",
+            "employeeCount": "20 명  (2024년 기준)",
+            "profit": "56억 9,508만원                                                                    (2015년 기준)"
+        },
+        "47444604": {
+            "companyName": "(주)미리디",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.miridih.com/",
+            "jobTitle": "[미리캔버스] 글로벌 템플릿 기획자",
+            "employeeCount": "282 명  (2024년 기준)",
+            "profit": "330억 9,757만원                                                                    (2022년 기준)"
+        },
+        "47447025": {
+            "companyName": "(주)마이베프",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "(주)마이베프 퍼포먼스 마케터 경력직 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47447658": {
+            "companyName": "한국벡크만쿨터(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "beckmancoulter.co.kr",
+            "jobTitle": "[한국벡크만쿨터] Marketing Automation Specialist 경력직 채용",
+            "employeeCount": "118 명  (2024년 기준)",
+            "profit": "929억 7,016만원                                                                    (2022년 기준)"
+        },
+        "47449270": {
+            "companyName": "위드고(WithGo)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "민초단과 함께 세상을 구할 콘텐츠마케터를 구합니다.",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47455373": {
+            "companyName": "(주)마이비트",
+            "phoneNumbers": "02-6487-8131",
+            "email": "sunny@mybit.kr",
+            "homepageUrl": "mybit.kr",
+            "jobTitle": "[마이비트] MICE본부 전시 기획 직무(경력) 채용",
+            "employeeCount": "13 명  (2016년 기준)",
+            "profit": "5억 515만원                                                                    (2016년 기준)"
+        },
+        "47455472": {
+            "companyName": "(주)마이비트",
+            "phoneNumbers": "02-6487-8131",
+            "email": "sunny@mybit.kr",
+            "homepageUrl": "mybit.kr",
+            "jobTitle": "[마이비트] MICE본부 해외전시 기획 직무(경력) 채용",
+            "employeeCount": "13 명  (2016년 기준)",
+            "profit": "5억 515만원                                                                    (2016년 기준)"
+        },
+        "47459304": {
+            "companyName": "에이스비즈컴즈(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://acebizcomms.modoo.at/",
+            "jobTitle": "[MICE] 전시·컨벤션·세미나·국제회의 행사 기획 및 운영",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47463888": {
+            "companyName": "(주) 닥터비오비",
+            "phoneNumbers": "02-525-6118",
+            "email": "info@drbobshop.com",
+            "homepageUrl": "www.drbobshop.com",
+            "jobTitle": "[스노우버디] 분석&기획력 좋은 온라인 마케터 찾습니다",
+            "employeeCount": "4 명  (2023년 기준)",
+            "profit": "44억원                                                                    (2023년 기준)"
+        },
+        "47472104": {
+            "companyName": "라이브치과병원",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[강남/복지] 라이브치과병원 중국어마케터 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47472516": {
+            "companyName": "티쓰리디에스피",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "appsilon.kr",
+            "jobTitle": "웹툰, 이커머스 광고 소재 2D 디자인 및 모션그래픽(경력4년)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47484587": {
+            "companyName": "맨디스코리아(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "mandyskorea.kr",
+            "jobTitle": "화장품 브랜드사 퍼포먼스 마케터(과장/차장/팀장급)",
+            "employeeCount": "4 명  (2024년 기준)",
+            "profit": "15억 6,175만원                                                                    (2021년 기준)"
+        },
+        "47484613": {
+            "companyName": "(주)미립",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "화장품 브랜드사 퍼포먼스 마케터(과장/차장/팀장급)",
+            "employeeCount": "35 명  (2022년 기준)",
+            "profit": "86억 6,854만원                                                                    (2022년 기준)"
+        },
+        "47485502": {
+            "companyName": "(주)피알앤디컴퍼니",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.prnd.co.kr",
+            "jobTitle": "브랜드 마케터",
+            "employeeCount": "96 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47487011": {
+            "companyName": "(주)와이리",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[업계 최고 대우] CRM 마케터를 모집합니다 :)",
+            "employeeCount": "8 명  (2024년 기준)",
+            "profit": "2억 711만원                                                                    (2022년 기준)"
+        },
+        "47488994": {
+            "companyName": "(주)모티브이노베이션",
+            "phoneNumbers": "010-5596-7369",
+            "email": "null",
+            "homepageUrl": "www.mo-tive.com",
+            "jobTitle": "퍼포먼스마케터 채용 공고",
+            "employeeCount": "null",
+            "profit": "23억 3,200만원                                                                    (2023년 기준)"
+        },
+        "47489611": {
+            "companyName": "코너크리에이티브(주)",
+            "phoneNumbers": "02-3445-5441, 02-3445-5472",
+            "email": "null",
+            "homepageUrl": "http://www.coner.co.kr",
+            "jobTitle": "[경력] UI/UX 기획, 웹기획(대기업 커머스 운영, 웹서비스기획)",
+            "employeeCount": "40 명  (2019년 기준)",
+            "profit": "26억 9,689만원                                                                    (2019년 기준)"
+        },
+        "47491286": {
+            "companyName": "메가존(주)",
+            "phoneNumbers": "1998-2022",
+            "email": "mz@mz.co.kr",
+            "homepageUrl": "https://www.mz.co.kr",
+            "jobTitle": "[펜타클] 광고 기획 AE(팀장급) 영입",
+            "employeeCount": "null",
+            "profit": "1,005억원                                                                    (2022년 기준)"
+        },
+        "47492563": {
+            "companyName": "(주)민플래닝",
+            "phoneNumbers": "02-2135-8289, 02-2135-8288",
+            "email": "minplanning@minplanning.com",
+            "homepageUrl": "minplanning.com",
+            "jobTitle": "[기본급230만/주35시간]광고대행사 검색광고마케터 신입채용",
+            "employeeCount": "28 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47494711": {
+            "companyName": "(주)한국신용데이터",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.kcd.co.kr",
+            "jobTitle": "[제품실] Growth Marketer",
+            "employeeCount": "172 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47498003": {
+            "companyName": "(주)메타애드",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "2024년 상반기 온라인대행사 광고영업 신입/경력 채용",
+            "employeeCount": "19 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47503597": {
+            "companyName": "(주)링티",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://lingteateam.notion.site/lingtea-b67f647672da4dfe8500447d36e370cc",
+            "jobTitle": "[(주)링티 일본사업팀 B2C 담당자(일본인 우대)]",
+            "employeeCount": "null",
+            "profit": "341억 3,247만원                                                                    (2021년 기준)"
+        },
+        "47505870": {
+            "companyName": "(주)트리즈커머스",
+            "phoneNumbers": "1522-7839, 070-4009-2963",
+            "email": "business@triz-group.com",
+            "homepageUrl": "www.triz-group.com/",
+            "jobTitle": "[TRIZ] 인플루언서 AMD 정규직 채용",
+            "employeeCount": "70 명  (2022년 기준)",
+            "profit": "220억원                                                                    (2022년 기준)"
+        },
+        "47511334": {
+            "companyName": "(주)살만",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "온라인 마케터 정규직 모집",
+            "employeeCount": "7 명  (2024년 기준)",
+            "profit": "14억 4,721만원                                                                    (2022년 기준)"
+        },
+        "47513468": {
+            "companyName": "펑타이그레이터차이나(유)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.pt-korea.com",
+            "jobTitle": "[PTKOREA] 중국 소셜, 인플루언서 콘텐츠 기획 및 운영 AE",
+            "employeeCount": "null",
+            "profit": "940억 5,063만원                                                                    (2022년 기준)"
+        },
+        "47514125": {
+            "companyName": "(주)링크프라이스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.linkprice.com",
+            "jobTitle": "[링크프라이스] 온라인 검색광고 마케터 채용(초봉3,000+성과)",
+            "employeeCount": "300 명  (2022년 기준)",
+            "profit": "320억 7,246만원                                                                    (2022년 기준)"
+        },
+        "47514229": {
+            "companyName": "(주)링티",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://lingteateam.notion.site/lingtea-b67f647672da4dfe8500447d36e370cc",
+            "jobTitle": "[(주)링티 미국사업팀 B2B 세일즈 담당자 모집]",
+            "employeeCount": "null",
+            "profit": "341억 3,247만원                                                                    (2021년 기준)"
+        },
+        "47514679": {
+            "companyName": "티쓰리디에스피",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "appsilon.kr",
+            "jobTitle": "영어 스페인어 불어 원어민수준,  웹툰 광고 컨텐츠 기획 및 PM",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47515576": {
+            "companyName": "(주)넥스트챕터",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "tonextchapter.com",
+            "jobTitle": "Global Marketing Intern",
+            "employeeCount": "56 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47515749": {
+            "companyName": "주식회사시그널박스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "시그널박스 온라인/바이럴 마케터 모집/ 20~30대 업계최고 인센",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47517138": {
+            "companyName": "(주)스마일코리아",
+            "phoneNumbers": "02-6953-6600, 02-6953-6655, 2005-2019",
+            "email": "info@smilekoreacorp.com",
+            "homepageUrl": "https://www.smilekoreacorp.com/",
+            "jobTitle": "스마일코리아와 함께 성장할 마케터AE 신입채용",
+            "employeeCount": "79 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47518014": {
+            "companyName": "주식회사 지아이오엠글로벌",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[광고대행사] 경력직 팀장/파트장 채용공고",
+            "employeeCount": "24 명  (2023년 기준)",
+            "profit": "23억 9,598만원                                                                    (2023년 기준)"
+        },
+        "47524758": {
+            "companyName": "(주)프로셀테라퓨틱스",
+            "phoneNumbers": "02-6675-7200",
+            "email": "procellrx@procellrx.co.krProCell",
+            "homepageUrl": "www.procellrx.co.kr",
+            "jobTitle": "(주)프로셀테라퓨틱스 사업개발실 제품 개발 BM 부문 신규 채용",
+            "employeeCount": "21 명  (2021년 기준)",
+            "profit": "39억 505만원                                                                    (2021년 기준)"
+        },
+        "47527718": {
+            "companyName": "영신씨엠(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.youngsincm.co.kr",
+            "jobTitle": "온라인 마케터 채용",
+            "employeeCount": "12 명  (2024년 기준)",
+            "profit": "161억 6,788만원                                                                    (2023년 기준)"
+        },
+        "47530947": {
+            "companyName": "위즈덤플래닛",
+            "phoneNumbers": "070-8844-6088",
+            "email": "sloth.y@peseul.com",
+            "homepageUrl": "www.ne-ar.kr/",
+            "jobTitle": "[위즈덤플래닛] 인플루언서 커머스 매니저 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47536566": {
+            "companyName": "그래비테이트",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "gravitate-to.com",
+            "jobTitle": "[그래비테이트] 프리랜서 마케터 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47536606": {
+            "companyName": "연금형부동산연구소 (주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.arlab.co.kr",
+            "jobTitle": "디자인 능력이 강한 영상 편집자 경력직 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47544655": {
+            "companyName": "(주) 올라운드코퍼레이션",
+            "phoneNumbers": "02-422-0866",
+            "email": "allround@all-round.kr",
+            "homepageUrl": "https://allroundcorp.com/",
+            "jobTitle": "[올라운드코퍼레이션] 브랜드커머스 디지털 마케터 채용 (신입)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47546784": {
+            "companyName": "주식회사필립스그룹",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "전기스쿠터 영업 직원 모집 신입/경력 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47547020": {
+            "companyName": "에프디이노베이션",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://www.instagram.com/dangolmakes",
+            "jobTitle": "식자재 네이버 스마트스토어 온라인쇼핑몰 & 자사몰 이커머스 MD",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47552728": {
+            "companyName": "(주)더아이엠",
+            "phoneNumbers": "null",
+            "email": "contact@iamkbeauty.com",
+            "homepageUrl": "https://theim-corp.com/",
+            "jobTitle": "(주)더아이엠 화장품 해외영업팀 신입,경력 담당자 채용",
+            "employeeCount": "11 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47555222": {
+            "companyName": "(주)에스엔케이인터내쇼날",
+            "phoneNumbers": "84-271-3645",
+            "email": "hello@snkintl.com, Hello@snkintl.com, dwkim@snkvina.com",
+            "homepageUrl": "www.snkintl.com",
+            "jobTitle": "국내외 럭셔리 패션브랜드 패키지/영업 PM/디자이너/마케터",
+            "employeeCount": "null",
+            "profit": "354억 3,521만원                                                                    (2017년 기준)"
+        },
+        "47555569": {
+            "companyName": "(주)이스터씨앤아이",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.easter.co.kr",
+            "jobTitle": "중국어 회화가 능숙한 게임마케터 채용중(중국어 자소서 필첨)",
+            "employeeCount": "60 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47556206": {
+            "companyName": "(주)웹이즈",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://company.babosarang.co.kr/",
+            "jobTitle": "종합몰,오픈마켓,소셜 담당 MD를 모집합니다.",
+            "employeeCount": "39 명  (2016년 기준)",
+            "profit": "195억 1,237만원                                                                    (2016년 기준)"
+        },
+        "47561926": {
+            "companyName": "위더스서울(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.widus.kr",
+            "jobTitle": "[해외전시기획] 해외 컨벤션, 이벤트 프로모션 기획 및 실행",
+            "employeeCount": "11 명  (2022년 기준)",
+            "profit": "null"
+        },
+        "47567757": {
+            "companyName": "(주)바이트랩",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "bitelab.co.kr",
+            "jobTitle": "[바이트랩] 미디어커머스 콘텐츠 그룹 채용(마케터, 영상편집자)",
+            "employeeCount": "53 명  (2021년 기준)",
+            "profit": "36억원                                                                    (2021년 기준)"
+        },
+        "47569063": {
+            "companyName": "(주)이제이엠컴퍼니",
+            "phoneNumbers": "02-6956-1543",
+            "email": "help@wooriga.kr",
+            "homepageUrl": "wooriga.kr",
+            "jobTitle": "'우리가'를 멋지게 알려주실 마케터 님을 모십니다.",
+            "employeeCount": "null",
+            "profit": "1억 2,917만원                                                                    (2022년 기준)"
+        },
+        "47572727": {
+            "companyName": "주식회사비롯시앤엠(BlotC&M)",
+            "phoneNumbers": "02-859-0955",
+            "email": "hi@b-lot.co.kr",
+            "homepageUrl": "http://b-lot.co.kr/",
+            "jobTitle": "[BTL]대기업 브랜딩 이벤트 프로모션 기획 상반기 정규 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47573604": {
+            "companyName": "고유성형외과의원",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "신사역 고유성형외과 해외 일본팀 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47573864": {
+            "companyName": "(주)냉큼스토어",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "온라인 쇼핑몰 마케터 모집",
+            "employeeCount": "3 명  (2022년 기준)",
+            "profit": "16억 1,610만원                                                                    (2020년 기준)"
+        },
+        "47575213": {
+            "companyName": "(주)세모컴퍼니",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.whipped.co.kr",
+            "jobTitle": "글로벌팀 북미 마케터 인턴(정규직 전환형)채용",
+            "employeeCount": "18 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47577123": {
+            "companyName": "(주)더퀘스천",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.thequestion.co.kr/",
+            "jobTitle": "[신입/경력]BTL/MICE/프로모션 기획자 채용",
+            "employeeCount": "13 명  (2022년 기준)",
+            "profit": "28억 2,355만원                                                                    (2022년 기준)"
+        },
+        "47579190": {
+            "companyName": "(주)팝폰",
+            "phoneNumbers": "1588-5225, 032-465-5335",
+            "email": "poppont@naver.com",
+            "homepageUrl": "www.popphone.co.kr",
+            "jobTitle": "쿠팡, 스마트스토어 ,오픈마켓, 자사몰 담당자 모집",
+            "employeeCount": "8 명  (2016년 기준)",
+            "profit": "36억원                                                                    (2016년 기준)"
+        },
+        "47582449": {
+            "companyName": "주식회사 알엑스랩",
+            "phoneNumbers": "null",
+            "email": "rxlab.kr@gmail.com",
+            "homepageUrl": "https://rxpert.co.uk/",
+            "jobTitle": "[알엑스랩] 알엑스퍼트 에스테틱 화장품 교육강사 경력직 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47593523": {
+            "companyName": "아이씨뱅큐(주)",
+            "phoneNumbers": "null",
+            "email": "webmaster@icbanq.com",
+            "homepageUrl": "brand.icbanq.com",
+            "jobTitle": "이커머스 관리 및 오픈마켓 운영 담당자 채용",
+            "employeeCount": "92 명  (2022년 기준)",
+            "profit": "511억 3,207만원                                                                    (2022년 기준)"
+        },
+        "47598188": {
+            "companyName": "메가존클라우드(주)",
+            "phoneNumbers": "null",
+            "email": "cloud@megazone.com",
+            "homepageUrl": "www.megazone.com/",
+            "jobTitle": "Unity 사업 채용(Presales/Engineer)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47599182": {
+            "companyName": "(주)밀버스",
+            "phoneNumbers": "null",
+            "email": "contact@milvus.co.kr",
+            "homepageUrl": "www.milvus.co.kr",
+            "jobTitle": "CRM 마케터 (신입)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47601520": {
+            "companyName": "(주)보나쥬르",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[화장품브랜드] 일본 이커머스채널(큐텐 등) 운영 MD 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47601571": {
+            "companyName": "(주)모우컴",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.mowcomm.co.kr",
+            "jobTitle": "DESIGN MEMBER RECRUITMENT (디자이너)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47602045": {
+            "companyName": "(주)남문건축자재안전",
+            "phoneNumbers": "02-858-4949, 02-851-1114",
+            "email": "safe4949@naver.com",
+            "homepageUrl": "nammoon.co.kr",
+            "jobTitle": "웹디자이너 / 온라인MD 채용",
+            "employeeCount": "11 명  (2024년 기준)",
+            "profit": "49억 4,353만원                                                                    (2022년 기준)"
+        },
+        "47602179": {
+            "companyName": "아지앙스코리아㈜",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.asiance.com",
+            "jobTitle": "[아지앙스코리아] 디지털 마케터 채용",
+            "employeeCount": "60 명  (2020년 기준)",
+            "profit": "72억 1,432만원                                                                    (2020년 기준)"
+        },
+        "47602190": {
+            "companyName": "아지앙스코리아㈜",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.asiance.com",
+            "jobTitle": "[아지앙스코리아] 시니어 디지털 마케터 채용",
+            "employeeCount": "60 명  (2020년 기준)",
+            "profit": "72억 1,432만원                                                                    (2020년 기준)"
+        },
+        "47602671": {
+            "companyName": "(주)엠플랜잇",
+            "phoneNumbers": "null",
+            "email": "mplanit@mplanit.co.kr",
+            "homepageUrl": "www.mplanit.co.kr",
+            "jobTitle": "디지털 퍼포먼스 마케터 채용(신입/ 인턴)",
+            "employeeCount": "38 명  (2024년 기준)",
+            "profit": "171억 9,812만원                                                                    (2022년 기준)"
+        },
+        "47603338": {
+            "companyName": "펑타이그레이터차이나(유)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.pt-korea.com",
+            "jobTitle": "[PTKOREA] 글로벌 플랫폼 기획 및 운영 / AE",
+            "employeeCount": "null",
+            "profit": "940억 5,063만원                                                                    (2022년 기준)"
+        },
+        "47609567": {
+            "companyName": "위즈덤플래닛",
+            "phoneNumbers": "070-8844-6088",
+            "email": "sloth.y@peseul.com",
+            "homepageUrl": "www.ne-ar.kr/",
+            "jobTitle": "[위즈덤플래닛] 인플루언서 커머스 매니저 팀장급 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47610093": {
+            "companyName": "(주)서한관광개발 머큐어 앰배서더 홍대",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.ambatel.com",
+            "jobTitle": "[머큐어 앰배서더 홍대 호텔] Sales & Marketing Coordinator",
+            "employeeCount": "20 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47611653": {
+            "companyName": "(주)온애드엔",
+            "phoneNumbers": "null",
+            "email": "onadn@onadn.co.kr",
+            "homepageUrl": "onadn.co.kr",
+            "jobTitle": "(주)온애드엔에서 디지털 퍼포먼스 마케터 인재 모집합니다",
+            "employeeCount": "9 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47612036": {
+            "companyName": "(주)트랜디플러스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "trendyplus1.com",
+            "jobTitle": "온라인 홍보 콘텐츠 기획자 마케터 모집",
+            "employeeCount": "null",
+            "profit": "4억 7,623만원                                                                    (2019년 기준)"
+        },
+        "47613091": {
+            "companyName": "펀푸드",
+            "phoneNumbers": "070-7803-6000, 010-2792-2984, 02-6974-1977",
+            "email": "help@heyami.com",
+            "homepageUrl": "www.heyami.com",
+            "jobTitle": "온라인 식품 쇼핑몰  신입/경력직  MD/AMD 모집",
+            "employeeCount": "14 명  (2021년 기준)",
+            "profit": "50억원                                                                    (2021년 기준)"
+        },
+        "47613568": {
+            "companyName": "(주)닥터베이스코스메틱",
+            "phoneNumbers": "010-2332-1535, 031-388-5577",
+            "email": "drbase2019@naver.com",
+            "homepageUrl": "www.drbase.kr",
+            "jobTitle": "닥터베이스코스메틱 화장품 브랜드 BM(브랜드매니저) 경력 채용",
+            "employeeCount": "null",
+            "profit": "4억 3,845만원                                                                    (2022년 기준)"
+        },
+        "47613975": {
+            "companyName": "(주)맨파워그룹코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://manpower.co.kr",
+            "jobTitle": "[삼성역/전환가능] 글로벌 진단기기업 Marketing Admin",
+            "employeeCount": "11,000 명  (2023년 기준)",
+            "profit": "1,400억원                                                                    (2023년 기준)"
+        },
+        "47614417": {
+            "companyName": "(주)액스콘",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.aixcon.co.kr",
+            "jobTitle": "전략기획본부 기획팀",
+            "employeeCount": "13 명  (2024년 기준)",
+            "profit": "7억 6,034만원                                                                    (2022년 기준)"
+        },
+        "47614834": {
+            "companyName": "(주)어썸트리",
+            "phoneNumbers": "null",
+            "email": "info@awesometree.kr",
+            "homepageUrl": "www.awesometree.kr",
+            "jobTitle": "[PCO/MICE]  행사, 세미나, 국제회의 기획 및 운영 경력직 채용",
+            "employeeCount": "3 명  (2023년 기준)",
+            "profit": "null"
+        },
+        "47615240": {
+            "companyName": "(주)원트리즈뮤직",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.rhymeduck.com",
+            "jobTitle": "제안서 작성 꿀직장 경단녀 대환영",
+            "employeeCount": "17 명  (2024년 기준)",
+            "profit": "47억 1,885만원                                                                    (2021년 기준)"
+        },
+        "47615506": {
+            "companyName": "주식회사티컬렉티브",
+            "phoneNumbers": "null",
+            "email": "tea-collective@giholdings.co.kr",
+            "homepageUrl": "https://tea-collective.com/",
+            "jobTitle": "티컬렉티브 국내 채널 영업 담당자 경력 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47617521": {
+            "companyName": "아이비커리어(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.ibcareer.co.kr",
+            "jobTitle": "[대기업/식사제공/소속전환] 딜라이브 본사 웹디자인직 모집",
+            "employeeCount": "1,187 명  (2022년 기준)",
+            "profit": "396억 1,664만원                                                                    (2022년 기준)"
+        },
+        "47618242": {
+            "companyName": "(주)샌드박스네트워크",
+            "phoneNumbers": "null",
+            "email": "CONTACT@SANDBOXNETWORK.NET",
+            "homepageUrl": "https://sandbox.co.kr/",
+            "jobTitle": "[Strategy] PR 담당자 (경력)",
+            "employeeCount": "259 명  (2024년 기준)",
+            "profit": "1,462억 2,991만원                                                                    (2022년 기준)"
+        },
+        "47621147": {
+            "companyName": "(주)제이펀",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.jfunplan.co.kr/",
+            "jobTitle": "콘텐츠마케터 경력 채용",
+            "employeeCount": "23 명  (2024년 기준)",
+            "profit": "47억 2,730만원                                                                    (2022년 기준)"
+        },
+        "47624329": {
+            "companyName": "",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47624652": {
+            "companyName": "(주) 아머드 프레시",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "2024 상반기 F&B사업부 BM(브랜드 매니저) 채용 (신입/경력)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47625162": {
+            "companyName": "데이원컴퍼니(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "day1company.co.kr/",
+            "jobTitle": "[콜로소][경력] 글로벌 콘텐츠 마케터 (북미)",
+            "employeeCount": "400 명  (2020년 기준)",
+            "profit": "420억원                                                                    (2020년 기준)"
+        },
+        "47625226": {
+            "companyName": "(주)브랜드리팩터링",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "콘텐츠 기획 경력사원 채용",
+            "employeeCount": "30 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47625606": {
+            "companyName": "(주)매드코퍼레이션",
+            "phoneNumbers": "070-5222-2245",
+            "email": "contact@madcorp.co.kr",
+            "homepageUrl": "mad-corporation.co.kr/",
+            "jobTitle": "[크리에이티브 그룹] 콘텐츠 디자이너 경력, 3년 이상 채용",
+            "employeeCount": "46 명  (2022년 기준)",
+            "profit": "100억원                                                                    (2022년 기준)"
+        },
+        "47626609": {
+            "companyName": "(주)페이즈매거진",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "콘텐츠 에디터 및 브랜드 에디터 [패션전문] 모집공고",
+            "employeeCount": "8 명  (2024년 기준)",
+            "profit": "16억 7,109만원                                                                    (2021년 기준)"
+        },
+        "47627297": {
+            "companyName": "(사)동물권행동카라",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[동물권행동 카라] 홍보팀 홍보팀장 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47628231": {
+            "companyName": "(주)와이즈엘리테일",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "Commerce(Food) Brand/Product Design&Marketing신입/경력 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47629704": {
+            "companyName": "(주)더줌코리아",
+            "phoneNumbers": "1522-0571",
+            "email": "null",
+            "homepageUrl": "www.thezooom.kr",
+            "jobTitle": "[캐시워크 자회사] 자사몰 MD",
+            "employeeCount": "21 명  (2021년 기준)",
+            "profit": "32억 9,325만원                                                                    (2021년 기준)"
+        },
+        "47629869": {
+            "companyName": "(주)유나이티드디자이너스",
+            "phoneNumbers": "100-024-1279",
+            "email": "admin@build.co.kr",
+            "homepageUrl": "www.build.co.kr",
+            "jobTitle": "[BUILD] 패션마케터 채용",
+            "employeeCount": "20 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47629882": {
+            "companyName": "(주)유나이티드디자이너스",
+            "phoneNumbers": "100-024-1279",
+            "email": "admin@build.co.kr",
+            "homepageUrl": "www.build.co.kr",
+            "jobTitle": "[BUILD] 의류디자이너 경력직 채용",
+            "employeeCount": "20 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47630488": {
+            "companyName": "(주)익선다다트렌드랩",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "익선다다트렌드랩과 함께할 sns 마케터[신입]를 찾습니다.",
+            "employeeCount": "6 명  (2024년 기준)",
+            "profit": "5억 2,906만원                                                                    (2021년 기준)"
+        },
+        "47631610": {
+            "companyName": "(주)순녹",
+            "phoneNumbers": "070-4099-5711",
+            "email": "peace@soonnoc.com",
+            "homepageUrl": "soonnoc.com",
+            "jobTitle": "[바이브랩] 상품기획BM 채용",
+            "employeeCount": "17 명  (2021년 기준)",
+            "profit": "85억원                                                                    (2021년 기준)"
+        },
+        "47631619": {
+            "companyName": "(주)이지함화장품",
+            "phoneNumbers": "080-700-1544, 02-517-7876",
+            "email": "webmaster@leegeehaam.com, leisha@leegeehaam.com",
+            "homepageUrl": "https://www.lghmall.co.kr/",
+            "jobTitle": "[닥터슈라클] 콘텐츠 마케터 채용",
+            "employeeCount": "26 명  (2024년 기준)",
+            "profit": "178억 7,451만원                                                                    (2022년 기준)"
+        },
+        "47633216": {
+            "companyName": "주식회사 이디아스포츠",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "프로스포츠 시각 / 그래픽 / 콘텐츠 디자이너 채용",
+            "employeeCount": "23 명  (2016년 기준)",
+            "profit": "49억 887만원                                                                    (2016년 기준)"
+        },
+        "47633372": {
+            "companyName": "브라더인터내셔널코리아(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.brother-korea.com",
+            "jobTitle": "브라더인터내셔널코리아 Product Manager 경력 채용",
+            "employeeCount": "38 명  (2024년 기준)",
+            "profit": "502억 3,045만원                                                                    (2023년 기준)"
+        },
+        "47633743": {
+            "companyName": "(주)에프앤코",
+            "phoneNumbers": "080-225-6500, 521-2329",
+            "email": "banila@banila.com",
+            "homepageUrl": "www.banilaco.com",
+            "jobTitle": "글로벌사업팀 글로벌 이커머스 MD (팀장) [바닐라코]",
+            "employeeCount": "78 명  (2024년 기준)",
+            "profit": "895억 6,831만원                                                                    (2022년 기준)"
+        },
+        "47633755": {
+            "companyName": "(주)라오가닉",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "화장품 상품개발(BM) 담당자 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47633835": {
+            "companyName": "(주)메디쿼터스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://mediquitous.com/",
+            "jobTitle": "[헬스&뷰티] 코스메틱팀 온라인 세일즈MD 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47634651": {
+            "companyName": "성원이즈(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.sungwonis.com",
+            "jobTitle": "글로벌 브랜드 인테리어제품 기술영업 및 영업관리 신입/경력직 채용",
+            "employeeCount": "16 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47635950": {
+            "companyName": "(주)버디네트웍스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "buddynetworks.co.kr",
+            "jobTitle": "[듀이셀 화장품] 국내 영업 마케터",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47636437": {
+            "companyName": "(주)제이와이네트워크",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.jynetwork.co.kr",
+            "jobTitle": "언론홍보/보도기사 관련 광고주 관리 및 기사작성 인원",
+            "employeeCount": "15 명  (2024년 기준)",
+            "profit": "20억 4,273만원                                                                    (2022년 기준)"
+        },
+        "47637701": {
+            "companyName": "(주)파인드디앤서",
+            "phoneNumbers": "02-6959-3957",
+            "email": "findther@naver.com",
+            "homepageUrl": "www.nuebetter.com",
+            "jobTitle": "[파인드디앤서] 인플루언서 마케터 채용",
+            "employeeCount": "null",
+            "profit": "24억 3,763만원                                                                    (2022년 기준)"
+        },
+        "47638253": {
+            "companyName": "(주)부스트랩",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[부스트랩] 미디어 커머스 컨텐츠 마케터 인턴",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47638726": {
+            "companyName": "(주)다베로아트",
+            "phoneNumbers": "null",
+            "email": "email@email.com",
+            "homepageUrl": "www.davvero-art.com/",
+            "jobTitle": "[미디어아트 그룹] 국내외 전시 지원 AM님 모집",
+            "employeeCount": "null",
+            "profit": "30억원                                                                    (2022년 기준)"
+        },
+        "47638854": {
+            "companyName": "(주)지피에이코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "영업지원 채용",
+            "employeeCount": "17 명  (2024년 기준)",
+            "profit": "104억 8,464만원                                                                    (2022년 기준)"
+        },
+        "47638895": {
+            "companyName": "허브넷굿컴퍼니닷컴(주)",
+            "phoneNumbers": "1544-7843",
+            "email": "null",
+            "homepageUrl": "2hub.net/default/main/main.php",
+            "jobTitle": "너의 퍼포몬쓰를 보여줘 [네이버, 카카오 공식대행사 허브넷]",
+            "employeeCount": "85 명  (2019년 기준)",
+            "profit": "77억 7,481만원                                                                    (2019년 기준)"
+        },
+        "47638970": {
+            "companyName": "(주)지피에이코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "운영팀 사원 채용",
+            "employeeCount": "17 명  (2024년 기준)",
+            "profit": "104억 8,464만원                                                                    (2022년 기준)"
+        },
+        "47639364": {
+            "companyName": "(주)기영에프앤비",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "twozzim.com/",
+            "jobTitle": "[4.5일제] 기영에프앤비 신규사업팀 신규 채용 (주임-과장)",
+            "employeeCount": "101 명  (2024년 기준)",
+            "profit": "927억 6,656만원                                                                    (2022년 기준)"
+        },
+        "47639515": {
+            "companyName": "(주)아이엠씨코퍼레이션",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.imccorp.co.kr",
+            "jobTitle": "UX / UI 디자이너 경력 및 신입 모집",
+            "employeeCount": "5 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47639598": {
+            "companyName": "한국벡크만쿨터(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "beckmancoulter.co.kr",
+            "jobTitle": "[한국벡크만쿨터] Marketing Specialist 경력직 채용",
+            "employeeCount": "118 명  (2024년 기준)",
+            "profit": "929억 7,016만원                                                                    (2022년 기준)"
+        },
+        "47641821": {
+            "companyName": "(주)사람인에이치에스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.saraminhs.co.kr",
+            "jobTitle": "[잠실/재택병행/신입가능] 쿠팡 사무보조 채용 (정규전환가능)",
+            "employeeCount": "1,300 명  (2021년 기준)",
+            "profit": "270억원                                                                    (2021년 기준)"
+        },
+        "47642559": {
+            "companyName": "(주)퍼플아카데미",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.purple-academy.com",
+            "jobTitle": "그래픽 디자이너 경력 모집",
+            "employeeCount": "37 명  (2023년 기준)",
+            "profit": "null"
+        },
+        "47642628": {
+            "companyName": "(주)씨아이템프러리",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.citemp.co.kr",
+            "jobTitle": "[현대카드/본사] BRAND기획3팀 운영/관리/예산/처리 사무채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47643672": {
+            "companyName": "(주)트리즈커머스",
+            "phoneNumbers": "1522-7839, 070-4009-2963",
+            "email": "business@triz-group.com",
+            "homepageUrl": "www.triz-group.com/",
+            "jobTitle": "[TRIZ] 인플루언서 콘텐츠 기획 팀원 채용",
+            "employeeCount": "70 명  (2022년 기준)",
+            "profit": "220억원                                                                    (2022년 기준)"
+        },
+        "47644785": {
+            "companyName": "(주)골든보이스스테이션",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "공공기관 SNS 콘텐츠 마케터/AE/기획자 모집 (경력우대)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47644977": {
+            "companyName": "(주)쇼골프",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[쇼골프/FS사업팀] 골프스윙분석기(런치모니터) 사원/대리 채용",
+            "employeeCount": "110 명  (2022년 기준)",
+            "profit": "200억 4,070만원                                                                    (2022년 기준)"
+        },
+        "47645166": {
+            "companyName": "레드브릭스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://redbricks.co.kr/",
+            "jobTitle": "레드브릭스 디자인팀 경력 채용(SNS 콘텐츠, 온라인광고 디자인)",
+            "employeeCount": "null",
+            "profit": "24억 513만원                                                                    (2022년 기준)"
+        },
+        "47650548": {
+            "companyName": "(주)큐라에스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "이너뷰티 브랜드(퍼포먼스) 마케터",
+            "employeeCount": "8 명  (2024년 기준)",
+            "profit": "29억 2,113만원                                                                    (2023년 기준)"
+        },
+        "47650622": {
+            "companyName": "(주)테드스토리",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[테드스토리] 제휴 마케터 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47650771": {
+            "companyName": "디에스글로벌(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.dsgl.net",
+            "jobTitle": "ODM/OEM 해외영업 신입 및 경력직 채용",
+            "employeeCount": "71 명  (2021년 기준)",
+            "profit": "564억 4,590만원                                                                    (2021년 기준)"
+        },
+        "47652576": {
+            "companyName": "삼사오성형외과",
+            "phoneNumbers": "02-538-3450",
+            "email": "null",
+            "homepageUrl": "345-ps.com",
+            "jobTitle": "[삼사오성형외과] 성형모델 관리 마케터 채용(주5일/칼퇴보장)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47652714": {
+            "companyName": "대유라이프(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "cavedevin.co.kr",
+            "jobTitle": "와인글라스 리델 BM(브랜드매니저) 경력직 채용",
+            "employeeCount": "22 명  (2024년 기준)",
+            "profit": "100억 1,806만원                                                                    (2022년 기준)"
+        },
+        "47653099": {
+            "companyName": "미리어드팰럿즈(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "단기계약(파트타임) 아마존 마케터/디자이너 담당",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47654161": {
+            "companyName": "(주)지니웍스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.genieworks.net",
+            "jobTitle": "[신입/경력] 온라인 콘텐츠마케터 채용",
+            "employeeCount": "70 명  (2021년 기준)",
+            "profit": "290억 1,683만원                                                                    (2021년 기준)"
+        },
+        "47655282": {
+            "companyName": "",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47655312": {
+            "companyName": "(주)하이데어",
+            "phoneNumbers": "010-2075-1946",
+            "email": "hi.there.biz0@gmail.com",
+            "homepageUrl": "www.hithere-corp.com/",
+            "jobTitle": "크리에이터 비즈니스 매니저 아르바이트 모집 (경력 무관)",
+            "employeeCount": "6 명  (2024년 기준)",
+            "profit": "10억 2,921만원                                                                    (2022년 기준)"
+        },
+        "47657857": {
+            "companyName": "(주)인베트",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.realpacking.com",
+            "jobTitle": "리얼패킹 글로벌 커뮤니케이션 일본 담당 팀원 모집",
+            "employeeCount": "null",
+            "profit": "9억 6,424만원                                                                    (2021년 기준)"
+        },
+        "47658265": {
+            "companyName": "단호한결심",
+            "phoneNumbers": "1660-2541, 140-013-6163",
+            "email": "pure.nature@daum.net",
+            "homepageUrl": "https://wehadak.com/",
+            "jobTitle": "퍼포먼스 마케터 채용 (디지털광고, SNS 콘텐츠 기획 실행)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47659753": {
+            "companyName": "피아이코퍼레이션",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.picorp.co.kr",
+            "jobTitle": "광고 AE 경력 채용",
+            "employeeCount": "10 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47660797": {
+            "companyName": "테크빌교육(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.tekville.com",
+            "jobTitle": "교육운영 공공부문 사업PM(70만 교육 플랫폼)",
+            "employeeCount": "103 명  (2024년 기준)",
+            "profit": "189억 665만원                                                                    (2022년 기준)"
+        },
+        "47662823": {
+            "companyName": "(주)하이브",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://hybecorp.com/kor/main",
+            "jobTitle": "[HYBE IPX] 브랜드시너지사업",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47663571": {
+            "companyName": "(주)지티인터내셔널",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "온라인 MD 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47665099": {
+            "companyName": "엠제이부티끄(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.mjboutique.co.kr",
+            "jobTitle": "마케터 신입 채용",
+            "employeeCount": "30 명  (2021년 기준)",
+            "profit": "null"
+        },
+        "47665710": {
+            "companyName": "에듀빌",
+            "phoneNumbers": "1566-6765",
+            "email": "null",
+            "homepageUrl": "www.xn--ox1b24p48f.com/",
+            "jobTitle": "학원 블로그 포스팅 160개, 월 300이상 재택 근무자 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47666897": {
+            "companyName": "(주)에프터먼데이",
+            "phoneNumbers": "301-0194-1046, 140-011-4062, 005-203-0046, 1544-9987",
+            "email": "AFTERMONDAY_OFFICIAL@NAVER.COM",
+            "homepageUrl": "www.aftermonday.com",
+            "jobTitle": "여성의류쇼핑몰 이펙트팀(웹디자이너) 대리급, 사원급 모집",
+            "employeeCount": "9 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47667736": {
+            "companyName": "(주)해리슨커뮤니케이션즈",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.heylisten.co.kr",
+            "jobTitle": "해리슨커뮤니케이션즈 AE(사원) 모십니다",
+            "employeeCount": "24 명  (2020년 기준)",
+            "profit": "28억원                                                                    (2020년 기준)"
+        },
+        "47668107": {
+            "companyName": "(주)정글몬스터",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[정글몬스터] 마케터 5년 이상 경력자채용",
+            "employeeCount": "14 명  (2024년 기준)",
+            "profit": "35억 3,901만원                                                                    (2022년 기준)"
+        },
+        "47673398": {
+            "companyName": "주식회사 팀테헤란",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.thr-law.co.kr",
+            "jobTitle": "[팀테헤란] 법률 퍼포먼스마케터 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47675431": {
+            "companyName": "주식회사 타이타니컴테크 코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "Recruiting hardware engineers with marketing intentions",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47675860": {
+            "companyName": "펑타이그레이터차이나(유)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.pt-korea.com",
+            "jobTitle": "[PTKOREA] 글로벌 디지털 콘텐츠 디자이너",
+            "employeeCount": "null",
+            "profit": "940억 5,063만원                                                                    (2022년 기준)"
+        },
+        "47676657": {
+            "companyName": "(주)에제드",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.e-zed.kr/",
+            "jobTitle": "[연봉3000-4500만] 에제드 검색 광고 (SA) 퍼포먼스 마케터",
+            "employeeCount": "null",
+            "profit": "10억 9,428만원                                                                    (2022년 기준)"
+        },
+        "47677627": {
+            "companyName": "주식회사 자연주의코스메틱",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "2024 (주)자연주의코스메틱 바이럴 마케터 정규직 신입 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47677905": {
+            "companyName": "(주)와이어트",
+            "phoneNumbers": "02-1811-8123",
+            "email": "null",
+            "homepageUrl": "wyattcorp.com/",
+            "jobTitle": "브랜드 매니저(주니어~미들) 채용 [닥터포헤어]",
+            "employeeCount": "189 명  (2024년 기준)",
+            "profit": "583억 4,223만원                                                                    (2022년 기준)"
+        },
+        "47678037": {
+            "companyName": "(주)오니스트",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.ownist.kr",
+            "jobTitle": "브랜드 마케터(Japan) 인턴/신입 채용",
+            "employeeCount": "15 명  (2024년 기준)",
+            "profit": "57억 398만원                                                                    (2023년 기준)"
+        },
+        "47678631": {
+            "companyName": "(주)수퍼에이전시",
+            "phoneNumbers": "1577-8332",
+            "email": "shop@superagency.co.kr",
+            "homepageUrl": "http://www.sculpstore.co.kr",
+            "jobTitle": "디지털 마케터 SNS 릴스 숏폼 영상 촬영 및 편집 담당자 채용",
+            "employeeCount": "17 명  (2016년 기준)",
+            "profit": "25억 1,669만원                                                                    (2016년 기준)"
+        },
+        "47678659": {
+            "companyName": "(주)브랜드501",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "brand501.com",
+            "jobTitle": "(주)브랜드501 해외사업부문(MD, 인플루언서 마케터) 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47678769": {
+            "companyName": "(주)딘트",
+            "phoneNumbers": "005-001-6188, 317-0001-6585",
+            "email": "dint@dint.co.kr",
+            "homepageUrl": "http://www.dint.co.kr",
+            "jobTitle": "여성패션브랜드 (주) 딘트 퍼포먼스 광고 (DA, SA) 담당자 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47681457": {
+            "companyName": "(주)원씽",
+            "phoneNumbers": "070-7517-9980",
+            "email": "onething@onething.kr",
+            "homepageUrl": "onething.kr",
+            "jobTitle": "영상PD (콘텐츠 마케터) 채용공고",
+            "employeeCount": "21 명  (2024년 기준)",
+            "profit": "130억 2,962만원                                                                    (2022년 기준)"
+        },
+        "47683823": {
+            "companyName": "(주)웹이즈",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://company.babosarang.co.kr/",
+            "jobTitle": "[웹이즈] 바보사랑에서 AMD를 모집합니다",
+            "employeeCount": "39 명  (2016년 기준)",
+            "profit": "195억 1,237만원                                                                    (2016년 기준)"
+        },
+        "47688280": {
+            "companyName": "(주)메디쿼터스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://mediquitous.com/",
+            "jobTitle": "[헬스&뷰티] 인플루언서 공동구매 MD 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47690464": {
+            "companyName": "(주)메이드에스유",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "메이드수 필라테스&플라잉요가 센터운영 매니저(팀원) 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47690880": {
+            "companyName": "크록스코리아(주)",
+            "phoneNumbers": "1661-0677",
+            "email": "null",
+            "homepageUrl": "http://www.crocs.co.kr",
+            "jobTitle": "e-Commerce팀 (Sr) Digital Marketing Specialist 경력 모집",
+            "employeeCount": "59 명  (2024년 기준)",
+            "profit": "1,815억 5,770만원                                                                    (2022년 기준)"
+        },
+        "47692009": {
+            "companyName": "(주)바이너리큐브",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "binarycube.co.kr",
+            "jobTitle": "검색광고&퍼포먼스마케터 AE 신입 직원 채용",
+            "employeeCount": "25 명  (2021년 기준)",
+            "profit": "155억 1,981만원                                                                    (2021년 기준)"
+        },
+        "47692375": {
+            "companyName": "(주)브레인트러스트커뮤니케이션즈",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "BTL 프로모션 이벤트 기획&행사 운영 / 경력 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47693089": {
+            "companyName": "(주)디노마드",
+            "phoneNumbers": "02-337-2583",
+            "email": "project@dnmd.com",
+            "homepageUrl": "dnmd.com",
+            "jobTitle": "[주 1일 출근] 기획자 채용공고 - MICE/전시/행사/축제/프로모션",
+            "employeeCount": "194 명  (2024년 기준)",
+            "profit": "239억 9,854만원                                                                    (2022년 기준)"
+        },
+        "47694593": {
+            "companyName": "디엑스앤브이엑스(주)",
+            "phoneNumbers": "02-6964-8770, 02-6964-8755, 02-890-8700",
+            "email": "null",
+            "homepageUrl": "www.dxvx.com",
+            "jobTitle": "Consumer 분야 PM 경력 채용",
+            "employeeCount": "111 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47695305": {
+            "companyName": "",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47696049": {
+            "companyName": "(주)케이오마케팅",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[주34시간 / 기본급 210] 온라인 검색광고 마케터(AE) 채용.",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47696166": {
+            "companyName": "삼사오성형외과",
+            "phoneNumbers": "02-538-3450",
+            "email": "null",
+            "homepageUrl": "345-ps.com",
+            "jobTitle": "[삼사오성형외과] 성형모델 관리 마케터 채용(주5일)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47697230": {
+            "companyName": "(주)신세계인터내셔날",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.sikorea.co.kr",
+            "jobTitle": "신세계톰보이 국내패션브랜드 그래픽디자이너(계약직) 모집",
+            "employeeCount": "1,457 명  (2020년 기준)",
+            "profit": "1조 3,524억 9,968만원                                                                    (2020년 기준)"
+        },
+        "47697278": {
+            "companyName": "(주)사람인에이치에스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.saraminhs.co.kr",
+            "jobTitle": "[잠실/재택병행] 쿠팡 사무보조  (정규전환가능)",
+            "employeeCount": "1,300 명  (2021년 기준)",
+            "profit": "270억원                                                                    (2021년 기준)"
+        },
+        "47700244": {
+            "companyName": "대상정보기술(주)",
+            "phoneNumbers": "02-3409-0450",
+            "email": "null",
+            "homepageUrl": "www.daesangit.com",
+            "jobTitle": "[대상정보기술] 각 부문별 경력·신입 채용",
+            "employeeCount": "152 명  (2024년 기준)",
+            "profit": "751억 887만원                                                                    (2022년 기준)"
+        },
+        "47700413": {
+            "companyName": "예래클리프개발(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "hiddencliff.kr/front/kr/index.asp#!/main",
+            "jobTitle": "[제주 히든클리프 호텔&네이쳐] 각 부문별 채용 공고",
+            "employeeCount": "61 명  (2024년 기준)",
+            "profit": "110억 5,122만원                                                                    (2023년 기준)"
+        },
+        "47701009": {
+            "companyName": "테크빌교육(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.tekville.com",
+            "jobTitle": "[테크빌교육] 학교 대상 위탁운영 / 물품 입찰 담당자  채용",
+            "employeeCount": "103 명  (2024년 기준)",
+            "profit": "189억 665만원                                                                    (2022년 기준)"
+        },
+        "47701683": {
+            "companyName": "(주)보블릭",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.vorblick.co.kr",
+            "jobTitle": "[브랜딩/기획] 콘텐츠 디렉터(경력/신입) 모집",
+            "employeeCount": "null",
+            "profit": "77억원                                                                    (2021년 기준)"
+        },
+        "47701766": {
+            "companyName": "(주)발란",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.balaan.co.kr",
+            "jobTitle": "온사이트 마케터 - Category manager",
+            "employeeCount": "60 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47701815": {
+            "companyName": "(주)제일비엠시",
+            "phoneNumbers": "1544-9126",
+            "email": "null",
+            "homepageUrl": "www.jeilbmc.co.kr",
+            "jobTitle": "[경기북부지역] 하이트진로 주류영업 및 상권관리 MD 사원모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47702573": {
+            "companyName": "주식회사다팬다",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "(주)다팬다 SNS영상 콘텐츠 마케터 채용 기본급+인센티브",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47705669": {
+            "companyName": "해브앤비(유)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[닥터자르트] Product Marketing",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47707467": {
+            "companyName": "(주)트랜드메카",
+            "phoneNumbers": "02-6455-2581",
+            "email": "trendmecca@hotmail.com",
+            "homepageUrl": "trendmecca.co.kr",
+            "jobTitle": "[1등 명품/시계쇼핑몰] 트랜드메카 이커머스 MD 경력직 모집",
+            "employeeCount": "81 명  (2024년 기준)",
+            "profit": "590억 5,105만원                                                                    (2022년 기준)"
+        },
+        "47708771": {
+            "companyName": "(주)더크루열정적인사람들",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.tcrews.co.kr",
+            "jobTitle": "[기획]2024년 기획자 모집 (신입/경력)",
+            "employeeCount": "null",
+            "profit": "4억 7,222만원                                                                    (2020년 기준)"
+        },
+        "47708870": {
+            "companyName": "주식회사렌시스코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[렌시스] 일본 콘텐츠 마케터 채용 (1년 이상, 신입가능)",
+            "employeeCount": "null",
+            "profit": "5,909만원                                                                    (2023년 기준)"
+        },
+        "47708882": {
+            "companyName": "하우랩(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "크넥 숏폼 플랫폼 (릴스/틱톡/쇼츠) 운영 담당자 채용 (공덕)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47708941": {
+            "companyName": "(주)하우파파",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "숏폼 플랫폼 운영 담당자 (크리에이터 소통) / 공덕",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47709413": {
+            "companyName": "(주)헥토",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[헥토] CRM 마케터 채용 (경력 3년 이상)",
+            "employeeCount": "40 명  (2021년 기준)",
+            "profit": "2,200억원                                                                    (2021년 기준)"
+        },
+        "47709501": {
+            "companyName": "콘바텍코리아(유)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.convatec.com",
+            "jobTitle": "[외국계 의료기기] Marketing Manager/Product Manager - AWC",
+            "employeeCount": "null",
+            "profit": "131억 9,223만원                                                                    (2016년 기준)"
+        },
+        "47710298": {
+            "companyName": "아바타메이드(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "이커머스 퍼포먼스 마케터 정규직 모집 공고(경력사원)",
+            "employeeCount": "10 명  (2024년 기준)",
+            "profit": "1,817만원                                                                    (2022년 기준)"
+        },
+        "47710460": {
+            "companyName": "(주)갤러리케이",
+            "phoneNumbers": "1833-8833, 02-557-5466, 1644-2208",
+            "email": "null",
+            "homepageUrl": "artnomics.co.kr",
+            "jobTitle": "[갤러리K] 미래전략기획실 신사업부 (경력 3년 이상) 채용",
+            "employeeCount": "78 명  (2024년 기준)",
+            "profit": "663억 2,655만원                                                                    (2023년 기준)"
+        },
+        "47711471": {
+            "companyName": "피아스인터코스멕스한국(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "온라인 마케터 / 브랜드 마케터",
+            "employeeCount": "null",
+            "profit": "32억 1,216만원                                                                    (2022년 기준)"
+        },
+        "47711947": {
+            "companyName": "(주)민플래닝",
+            "phoneNumbers": "02-2135-8289, 02-2135-8288",
+            "email": "minplanning@minplanning.com",
+            "homepageUrl": "minplanning.com",
+            "jobTitle": "[워라밸in민플래닝]구글/SNS 광고매체 운용 정규 사무직 모집",
+            "employeeCount": "28 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47712311": {
+            "companyName": "(주)이엘라이즈",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.elgroup.kr",
+            "jobTitle": "(충원)이엘라이즈 화장품 & 식품 브랜드 상품기획 BM 추가 채용",
+            "employeeCount": "20 명  (2024년 기준)",
+            "profit": "151억 2,517만원                                                                    (2022년 기준)"
+        },
+        "47713375": {
+            "companyName": "(주)제이씨그룹",
+            "phoneNumbers": "02-555-0914, 02-553-0914",
+            "email": "info@just-company.co.kr",
+            "homepageUrl": "just-company.co.kr",
+            "jobTitle": "[강남역/정규직] 콘텐츠 디자이너(Image/Video) 모집",
+            "employeeCount": "12 명  (2022년 기준)",
+            "profit": "10억 7,700만원                                                                    (2022년 기준)"
+        },
+        "47713472": {
+            "companyName": "월급쟁이부자들(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://career.weolbu.com",
+            "jobTitle": "[월급쟁이부자들(월부)] 콘텐츠 마케터(Contents Marketer)",
+            "employeeCount": "80 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47713478": {
+            "companyName": "월급쟁이부자들(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://career.weolbu.com",
+            "jobTitle": "[월급쟁이부자들(월부)] 광고 콘텐츠 마케터",
+            "employeeCount": "80 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47714247": {
+            "companyName": "(주)파인에이치알",
+            "phoneNumbers": "6933-7990",
+            "email": "todd@finehr.co.kr",
+            "homepageUrl": "www.finehr.co.kr",
+            "jobTitle": "300 억 매출 화장품 해외유통사 퍼포먼스 마케터 주임/대리급",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47714915": {
+            "companyName": "쿠팡(주)",
+            "phoneNumbers": "1577-7011, 2010-2024",
+            "email": "help@coupang.com, CM112@coupang.com",
+            "homepageUrl": "www.coupang.com",
+            "jobTitle": "[쿠팡] 광고사업부 아웃바운드 영업 담당자",
+            "employeeCount": "null",
+            "profit": "13조 9,257억 6,800만원                                                                    (2020년 기준)"
+        },
+        "47716296": {
+            "companyName": "(주)베스트에치알 (Best HR)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.besthr.co.kr",
+            "jobTitle": "[K-패션] 디자이너  파트장급  (캐쥬얼)",
+            "employeeCount": "20 명  (2013년 기준)",
+            "profit": "null"
+        },
+        "47716753": {
+            "companyName": "(주)베스트에치알 (Best HR)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.besthr.co.kr",
+            "jobTitle": "[K-패션] 디자이너  팀장급 (캐쥬얼)",
+            "employeeCount": "20 명  (2013년 기준)",
+            "profit": "null"
+        },
+        "47716859": {
+            "companyName": "새움",
+            "phoneNumbers": "02-555-0829, 02-555-0830",
+            "email": "null",
+            "homepageUrl": "https://saeum.kr",
+            "jobTitle": "온라인 마케터 신입/경력 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47717894": {
+            "companyName": "프로페셔날핸즈인핸즈코리아(주)",
+            "phoneNumbers": "02-567-1750, 02-567-1833",
+            "email": "ceo@prohanzkorea.co.kr",
+            "homepageUrl": "http://www.prohanzkorea.com",
+            "jobTitle": "[화장품 스타트업] 색조&기초BM(4-11년)",
+            "employeeCount": "45 명  (2022년 기준)",
+            "profit": "40억원                                                                    (2022년 기준)"
+        },
+        "47718087": {
+            "companyName": "(주)바이트커뮤니케이션즈",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://bitecomm.co.kr/",
+            "jobTitle": "2024년 상반기 BTL AE 채용",
+            "employeeCount": "35 명  (2024년 기준)",
+            "profit": "106억 7,355만원                                                                    (2022년 기준)"
+        },
+        "47718692": {
+            "companyName": "(주)시크먼트",
+            "phoneNumbers": "010-6816-2170",
+            "email": "null",
+            "homepageUrl": "https://www.chicment.com/",
+            "jobTitle": "명품/패션 커뮤니티 시크먼트 콘텐츠 마케터 채용 공고",
+            "employeeCount": "16 명  (2024년 기준)",
+            "profit": "8억 620만원                                                                    (2022년 기준)"
+        },
+        "47719324": {
+            "companyName": "(주)비비파트너스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.bbp.co.kr",
+            "jobTitle": "온라인 커머스 솔루션 기업 퍼포먼스 마케터",
+            "employeeCount": "null",
+            "profit": "10억 234만원                                                                    (2017년 기준)"
+        },
+        "47719944": {
+            "companyName": "(주)딥네이션",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "컨텐츠개발팀 직원 신규채용 ( 매니저 )",
+            "employeeCount": "3 명  (2022년 기준)",
+            "profit": "15억 2,633만원                                                                    (2022년 기준)"
+        },
+        "47721207": {
+            "companyName": "(주)지앤씨앤씨",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "-GNCNC- 마케터 모집합니다",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47722216": {
+            "companyName": "(주)와이케이메디",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "의류 쇼핑몰 온라인광고,상품기획·MD/디자인外  채용 공고",
+            "employeeCount": "6 명  (2024년 기준)",
+            "profit": "38억 1,718만원                                                                    (2022년 기준)"
+        },
+        "47722909": {
+            "companyName": "(주)아이아이컴바인드",
+            "phoneNumbers": "1600-2126",
+            "email": "cs@gentlemonster.com",
+            "homepageUrl": "gentlemonster.com",
+            "jobTitle": "[젠틀몬스터] 해외 커뮤니케이션 & 플래닝 담당자",
+            "employeeCount": "1,094 명  (2024년 기준)",
+            "profit": "3,181억 8,596만원                                                                    (2022년 기준)"
+        },
+        "47723191": {
+            "companyName": "피알플래닛(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.theprplanet.com",
+            "jobTitle": "소비재 홍보담당 경력/신입/인턴 AE 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47723269": {
+            "companyName": "디케이메디비젼(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.dkmv.co.kr",
+            "jobTitle": "디케이메디비젼(주) 해외영업팀 정규직 채용(명동사무실 근무)",
+            "employeeCount": "null",
+            "profit": "52억 8,197만원                                                                    (2016년 기준)"
+        },
+        "47724552": {
+            "companyName": "(주)이레컴즈",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.7daycomz.co.kr",
+            "jobTitle": "네이버 검색광고 공식대행사 마케터 경력직 채용 (SEM / AE)",
+            "employeeCount": "6 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47724895": {
+            "companyName": "(주)모티바코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "motivaimplants.co.kr",
+            "jobTitle": "영업 경력직 과장급 채용(영어필수)",
+            "employeeCount": "39 명  (2024년 기준)",
+            "profit": "332억 8,542만원                                                                    (2022년 기준)"
+        },
+        "47725426": {
+            "companyName": "201컴퍼니(주)",
+            "phoneNumbers": "null",
+            "email": "company201@naver.com",
+            "homepageUrl": "201company.com",
+            "jobTitle": "병원홍보/B2B제휴영업/기업제휴영업 신입&경력 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47727115": {
+            "companyName": "프로페셔날핸즈인핸즈코리아(주)",
+            "phoneNumbers": "02-567-1750, 02-567-1833",
+            "email": "ceo@prohanzkorea.co.kr",
+            "homepageUrl": "http://www.prohanzkorea.com",
+            "jobTitle": "[유명 더마화장품] 홍보,PPL팀장 (7-12,년)",
+            "employeeCount": "45 명  (2022년 기준)",
+            "profit": "40억원                                                                    (2022년 기준)"
+        },
+        "47727524": {
+            "companyName": "(주)하이데어",
+            "phoneNumbers": "010-2075-1946",
+            "email": "hi.there.biz0@gmail.com",
+            "homepageUrl": "www.hithere-corp.com/",
+            "jobTitle": "크리에이터 비즈니스 매니저(계약직·알바) 모집 (경력 무관)",
+            "employeeCount": "6 명  (2024년 기준)",
+            "profit": "10억 2,921만원                                                                    (2022년 기준)"
+        },
+        "47727686": {
+            "companyName": "에어리어195",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://area195.co.kr/",
+            "jobTitle": "[MICE/PCO] MICE사업실 경력 채용(컨벤션·세미나·전시)",
+            "employeeCount": "18 명  (2024년 기준)",
+            "profit": "13억원                                                                    (2022년 기준)"
+        },
+        "47727761": {
+            "companyName": "㈜베페",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "㈜베페 전시기획/영업 부문 채용(신입~3년 미만)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47729067": {
+            "companyName": "(주)에이치비메디",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "hbmedi.imweb.me",
+            "jobTitle": "사무업무(쇼핑몰 사무보조 및 기타 서류작업)",
+            "employeeCount": "3 명  (2024년 기준)",
+            "profit": "6억 805만원                                                                    (2021년 기준)"
+        },
+        "47729121": {
+            "companyName": "(주)엘씨나인",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "아몬드영 뷰티,미용재료 쇼핑몰 MD/BM/PD정규직 경력직 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47729263": {
+            "companyName": "(주)비앤에이치코스메틱",
+            "phoneNumbers": "080-343-1803, 02-6227-6790",
+            "email": "overseas@bnhcosmetics.co.kr, giverny_mkt@bnhcosmetics.co.kr",
+            "homepageUrl": "http://e-giverny.com",
+            "jobTitle": "[지베르니/아크웰] 해외영업(일본 담당) 경력 인재 모집",
+            "employeeCount": "43 명  (2021년 기준)",
+            "profit": "224억 6,900만원                                                                    (2021년 기준)"
+        },
+        "47729496": {
+            "companyName": "(주)스카우트파트너스",
+            "phoneNumbers": "02-2051-3123, 02-2051-5005",
+            "email": "null",
+            "homepageUrl": "http://www.scoutpartners.co.kr",
+            "jobTitle": "게임 스마트상품 IT MD (게임.음향.3-18년) 유통 대기업",
+            "employeeCount": "12 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47729749": {
+            "companyName": "(주)땡큐파머",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.thankyoufarmer.co.kr",
+            "jobTitle": "[땡큐파머] 화장품 아마존 해외 이커머스 마케터 채용",
+            "employeeCount": "null",
+            "profit": "78억 5,011만원                                                                    (2023년 기준)"
+        },
+        "47730243": {
+            "companyName": "텔코웨어(주)",
+            "phoneNumbers": "02-2105-9800, 02-2105-9888",
+            "email": "null",
+            "homepageUrl": "www.telcoware.com",
+            "jobTitle": "[텔코웨어] Technical Marketing  신입 및 경력사원 채용",
+            "employeeCount": "183 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47731017": {
+            "companyName": "하인크코리아(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "haainc.co.kr",
+            "jobTitle": "2024년 하인크코리아(주) E커머스 MD영업 인재를 채용합니다.",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47732213": {
+            "companyName": "주식회사 더스타힐",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://sllight.kr/",
+            "jobTitle": "인플루언서 커머스 매니저 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47732823": {
+            "companyName": "(주)매그니프",
+            "phoneNumbers": "070-8228-0808, 02-2135-1458, 02-2135-1457",
+            "email": "makeprem_on@magnifkorea.com, global@magnifkorea.com, makeprem_mkt@magnifkorea.com",
+            "homepageUrl": "www.makeprem.com",
+            "jobTitle": "[화장품] 색조 상품기획 BM 경력직 채용",
+            "employeeCount": "32 명",
+            "profit": "190억 6,629만원                                                                    (2023년 기준)"
+        },
+        "47732988": {
+            "companyName": "피플인사이트파트너스 주식회사",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.people-insight.kr",
+            "jobTitle": "이커머스 온사이트(프로모션) 마케터 (5년 이상)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47734328": {
+            "companyName": "",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47735235": {
+            "companyName": "데이원컴퍼니(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "day1company.co.kr/",
+            "jobTitle": "[콜로소][경력] 시니어 글로벌 콘텐츠 마케터 (북미)",
+            "employeeCount": "400 명  (2020년 기준)",
+            "profit": "420억원                                                                    (2020년 기준)"
+        },
+        "47735525": {
+            "companyName": "(주)피플앤코",
+            "phoneNumbers": "02-6736-2335, 070-7405-2881, 02-6737-2335",
+            "email": "peoplenco@hanmail.net, peoplenco@daum.net",
+            "homepageUrl": "peoplenco.co.kr",
+            "jobTitle": "[상품기획] 화장품 BM 경력 채용",
+            "employeeCount": "null",
+            "profit": "274억 6,342만원                                                                    (2022년 기준)"
+        },
+        "47735929": {
+            "companyName": "한국피앤지(유)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.pg.co.kr",
+            "jobTitle": "Sales Marketing Intern (P&G Summer Internship)",
+            "employeeCount": "null",
+            "profit": "76억 7,952만원                                                                    (2023년 기준)"
+        },
+        "47736825": {
+            "companyName": "제이앤피에이치알컨설팅",
+            "phoneNumbers": "02-6010-9816",
+            "email": "null",
+            "homepageUrl": "www.jnphr.com",
+            "jobTitle": "[Multinational Company]  Digital AE",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47736906": {
+            "companyName": "프로페셔날핸즈인핸즈코리아(주)",
+            "phoneNumbers": "02-567-1750, 02-567-1833",
+            "email": "ceo@prohanzkorea.co.kr",
+            "homepageUrl": "http://www.prohanzkorea.com",
+            "jobTitle": "유명화장품 상품기획BM(기초,더마)(3-7년)",
+            "employeeCount": "45 명  (2022년 기준)",
+            "profit": "40억원                                                                    (2022년 기준)"
+        },
+        "47736918": {
+            "companyName": "프로페셔날핸즈인핸즈코리아(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.prohanzkorea.com",
+            "jobTitle": "유명화장품(기초) 상품기획BM팀장 (10~15년)",
+            "employeeCount": "45 명  (2022년 기준)",
+            "profit": "40억원                                                                    (2022년 기준)"
+        },
+        "47737131": {
+            "companyName": "(주)미래아이엔씨",
+            "phoneNumbers": "02-6233-4730, 02-6233-4700, 02-701-5000",
+            "email": "km.kyung@toup.net",
+            "homepageUrl": "www.toup.net/",
+            "jobTitle": "[초봉3천/성과급/신사옥/금요일5시퇴근] 네이버공식대행사AE신입",
+            "employeeCount": "230 명  (2017년 기준)",
+            "profit": "172억원                                                                    (2017년 기준)"
+        },
+        "47738191": {
+            "companyName": "(주)버드뷰",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "hwahae.co.kr/",
+            "jobTitle": "Growth Marketing Assistant (Intern)",
+            "employeeCount": "145 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47738775": {
+            "companyName": "조엘 로컬라이제이션",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.joellocalization.com",
+            "jobTitle": "검색엔진최적화 (SEO) 전문 마케터 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47739337": {
+            "companyName": "㈜디자인피버",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.designfever.com",
+            "jobTitle": "Brand Marketing Designer/ Motion Graphic Designer 채용",
+            "employeeCount": "100 명  (2018년 기준)",
+            "profit": "150억원                                                                    (2018년 기준)"
+        },
+        "47739920": {
+            "companyName": "한국민간위탁경영연구소",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.kcomi.re.kr",
+            "jobTitle": "[사무행정직/정규직] 연구소 기획팀(교육, 홍보) 담당자 모집",
+            "employeeCount": "15 명  (2022년 기준)",
+            "profit": "10억 6,556만원                                                                    (2022년 기준)"
+        },
+        "47740046": {
+            "companyName": "(주)엠제이플렉스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.mjplex.co.kr",
+            "jobTitle": "[종각역/카카오엔터테인먼트] 1theK(원더케이) SNS 채널 운영",
+            "employeeCount": "800 명  (2017년 기준)",
+            "profit": "269억 4,358만원                                                                    (2017년 기준)"
+        },
+        "47740078": {
+            "companyName": "(주)에스피알티",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[바리바디] 홈트 전문 브랜드 컨텐츠 마케터 채용",
+            "employeeCount": "6 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47740132": {
+            "companyName": "(주)비지에프네트웍스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.bgfnetworks.com",
+            "jobTitle": "[BGF네트웍스] 경력사원 수시채용",
+            "employeeCount": "75 명  (2018년 기준)",
+            "profit": "155억 8,094만원                                                                    (2018년 기준)"
+        },
+        "47740427": {
+            "companyName": "주식회사 케이비엠즈",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://thekbms.com/",
+            "jobTitle": "스포츠분석 콘텐츠 TM 마케터 채용 (적극 지원해 드립니다)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47740644": {
+            "companyName": "씨제이푸드빌(주)",
+            "phoneNumbers": "1577-0700, 02-6740-4349",
+            "email": "help_master@cj.net",
+            "homepageUrl": "www.cjfoodville.co.kr",
+            "jobTitle": "[CJ푸드빌] 외식브랜드 BM 경력사원 모집 (과장급/8~10 년차)",
+            "employeeCount": "1,589 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47740664": {
+            "companyName": "(주)메디쿼터스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://mediquitous.com/",
+            "jobTitle": "[글로벌] 헬스&뷰티 영상 PD 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47740877": {
+            "companyName": "스와치그룹코리아(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.swatchgroup.co.kr",
+            "jobTitle": "[Blancpain] Marketing Intern 채용",
+            "employeeCount": "525 명  (2022년 기준)",
+            "profit": "3,733억 6,050만원                                                                    (2022년 기준)"
+        },
+        "47742025": {
+            "companyName": "(주)에임즈인터내셔널코리아",
+            "phoneNumbers": "null",
+            "email": "edward@aimskorea.com",
+            "homepageUrl": "www.aimskorea.com",
+            "jobTitle": "글로벌 브랜드] PR/Marketing specialist  대리급 이상",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47743056": {
+            "companyName": "티파니스킨",
+            "phoneNumbers": "02-512-0072",
+            "email": "jano0908@naver.com",
+            "homepageUrl": "http://www.tfss.co.kr",
+            "jobTitle": "사무보조·문서작성 外 2개 부문의 아르바이트채용 (유학생환영)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47744128": {
+            "companyName": "제이앤피에이치알컨설팅",
+            "phoneNumbers": "02-6010-9816",
+            "email": "null",
+            "homepageUrl": "www.jnphr.com",
+            "jobTitle": "(MNCs) 퍼포먼스 마케터",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47746356": {
+            "companyName": "(주)제이에스에이치케이",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "jshk.co.kr/",
+            "jobTitle": "2024 JSHK 상반기 배달의민족 서울지역 영업 및 관리 채용 공고",
+            "employeeCount": "28 명  (2024년 기준)",
+            "profit": "371억 8,655만원                                                                    (2022년 기준)"
+        },
+        "47746596": {
+            "companyName": "(주)링티",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://lingteateam.notion.site/lingtea-b67f647672da4dfe8500447d36e370cc",
+            "jobTitle": "[(주)링티 중국사업팀 B2B 세일즈 담당자 모집]",
+            "employeeCount": "null",
+            "profit": "341억 3,247만원                                                                    (2021년 기준)"
+        },
+        "47746949": {
+            "companyName": "동호에이치알(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[연3,667/중식제공] HD현대오일뱅크 사무지원 채용",
+            "employeeCount": "800 명  (2016년 기준)",
+            "profit": "176억 9,279만원                                                                    (2016년 기준)"
+        },
+        "47747918": {
+            "companyName": "(주)한독모터스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.bmwhandok.co.kr",
+            "jobTitle": "[BMW 한독모터스] BMW Genius 채용",
+            "employeeCount": "885 명  (2024년 기준)",
+            "profit": "1조 4,011억 9,497만원                                                                    (2023년 기준)"
+        },
+        "47748257": {
+            "companyName": "(주)드림인사이트",
+            "phoneNumbers": "02-523-7258, 051-902-7258, 02-6280-7258",
+            "email": "dream@bydream.co.kr",
+            "homepageUrl": "bydream.co.kr",
+            "jobTitle": "광고대행사 퍼포먼스마케터 인턴 모집(정규직 전환 가능)",
+            "employeeCount": "134 명  (2024년 기준)",
+            "profit": "151억 3,106만원                                                                    (2022년 기준)"
+        },
+        "47748511": {
+            "companyName": "(주)링크프라이스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.linkprice.com",
+            "jobTitle": "[서울 금천구] 제휴사업부 매체팀 정규직 채용",
+            "employeeCount": "300 명  (2020년 기준)",
+            "profit": "316억 5,550만원                                                                    (2020년 기준)"
+        },
+        "47748785": {
+            "companyName": "써브라임 주식회사",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.sublimeartist.co.kr",
+            "jobTitle": "[마켓팅 ] 홍보 경력직 채용",
+            "employeeCount": "50 명  (2021년 기준)",
+            "profit": "null"
+        },
+        "47750236": {
+            "companyName": "(주)트라이업",
+            "phoneNumbers": "02-6953-8898",
+            "email": "ceo@triupcorp.com",
+            "homepageUrl": "www.triupcorp.com",
+            "jobTitle": "[2024 상반기 공개채용] 기획팀(콘텐츠기획)",
+            "employeeCount": "45 명  (2022년 기준)",
+            "profit": "19억원                                                                    (2022년 기준)"
+        },
+        "47750511": {
+            "companyName": "(주)부스트랩",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[부스트랩] 일본 인플루언서 마케터 인턴 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47750762": {
+            "companyName": "한국엔드레스하우저(주)",
+            "phoneNumbers": "null",
+            "email": "info.kr@endress.com",
+            "homepageUrl": "www.kr.endress.com",
+            "jobTitle": "외국계 / 계측기 분야 /Industry Manager 경력 / 주1회재택",
+            "employeeCount": "119 명  (2024년 기준)",
+            "profit": "836억 639만원                                                                    (2022년 기준)"
+        },
+        "47750768": {
+            "companyName": "한국엔드레스하우저(주)",
+            "phoneNumbers": "null",
+            "email": "info.kr@endress.com",
+            "homepageUrl": "www.kr.endress.com",
+            "jobTitle": "외국계 / Product Manager (Pressure) 경력 / 주1회 재택",
+            "employeeCount": "119 명  (2024년 기준)",
+            "profit": "836억 639만원                                                                    (2022년 기준)"
+        },
+        "47752622": {
+            "companyName": "(주)트레드링스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "B2B SaaS 콘텐츠 마케터",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47752784": {
+            "companyName": "(주)레이드",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "디지털 마케터 채용",
+            "employeeCount": "7 명  (2024년 기준)",
+            "profit": "2억 1,182만원                                                                    (2022년 기준)"
+        },
+        "47753078": {
+            "companyName": "제이시스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.jsismall.com",
+            "jobTitle": "뷰티쇼핑몰 블로그 / SNS 마케터  신입직 채용",
+            "employeeCount": "null",
+            "profit": "5억 1,279만원                                                                    (2021년 기준)"
+        },
+        "47753654": {
+            "companyName": "에이에이아키그룹건축사사무소㈜",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.aaarchigroup.com",
+            "jobTitle": "AA아키그룹 건축사사무소(주) 경력사원 채용 (홍보)",
+            "employeeCount": "231 명  (2021년 기준)",
+            "profit": "802억 4,256만원                                                                    (2021년 기준)"
+        },
+        "47754555": {
+            "companyName": "(주)안국엔지니어링",
+            "phoneNumbers": "02-854-9211, 02-854-3202",
+            "email": "ankugenc@ankugenc.com",
+            "homepageUrl": "www.ankugenc.com",
+            "jobTitle": "각 부문별 정규직 채용",
+            "employeeCount": "120 명  (2024년 기준)",
+            "profit": "197억 5,222만원                                                                    (2022년 기준)"
+        },
+        "47757303": {
+            "companyName": "(주)토닉15",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "상품기획/개발 BM 경력 채용",
+            "employeeCount": "null",
+            "profit": "1억 7,861만원                                                                    (2023년 기준)"
+        },
+        "47758161": {
+            "companyName": "(주)에이엠피엠글로벌",
+            "phoneNumbers": "02-6049-4111, 2019-2024",
+            "email": "jinteing@ampm.co.kr",
+            "homepageUrl": "www.ampm.co.kr",
+            "jobTitle": "[연 3000/성과급 별도/신입가능] 광고 마케터 4월 공채",
+            "employeeCount": "138 명  (2020년 기준)",
+            "profit": "376억 7,476만원                                                                    (2020년 기준)"
+        },
+        "47758227": {
+            "companyName": "(주)핸디즈",
+            "phoneNumbers": "null",
+            "email": "rm@handys.co.kr, business@handys.co.kr, mkt@handys.co.kr",
+            "homepageUrl": "www.urbanstay.co.kr",
+            "jobTitle": "[어반스테이]2024년 상반기 각 부문별 채용 (신입/경력)",
+            "employeeCount": "158 명  (2024년 기준)",
+            "profit": "535억 4,149만원                                                                    (2023년 기준)"
+        },
+        "47758349": {
+            "companyName": "(주)에스제이더블유인터내셔널",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.siwonschool.com",
+            "jobTitle": "[시원스쿨랩] 마케터 신입/경력 채용",
+            "employeeCount": "192 명  (2016년 기준)",
+            "profit": "1,287억 4,272만원                                                                    (2016년 기준)"
+        },
+        "47758524": {
+            "companyName": "(주)반려생활",
+            "phoneNumbers": "null",
+            "email": "help@ban-life.com",
+            "homepageUrl": "ban-life.com",
+            "jobTitle": "반려동물 스타트업에서 마케터를 모십니다.",
+            "employeeCount": "8 명  (2024년 기준)",
+            "profit": "4,360만원                                                                    (2022년 기준)"
+        },
+        "47758955": {
+            "companyName": "(주)거성디지털",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[멜킨스포츠] 바이럴 마케터 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47759421": {
+            "companyName": "(주)킨도",
+            "phoneNumbers": "080-881-9835",
+            "email": "help@kindoh.com",
+            "homepageUrl": "www.kindoh.co.kr",
+            "jobTitle": "[킨도] 디자인팀 인원 채용",
+            "employeeCount": "32 명  (2024년 기준)",
+            "profit": "142억 2,620만원                                                                    (2022년 기준)"
+        },
+        "47761490": {
+            "companyName": "(주)브이디코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "모듈러 주택 관련 기획/마케터 경력직 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47761858": {
+            "companyName": "(주)피플케어코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "글로벌 온라인 MD (해외사업) - 국내화장품",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47762622": {
+            "companyName": "(주)지비소프트",
+            "phoneNumbers": "53-716-4884, 53-217-4884",
+            "email": "53-217-4884Econtact@gb-soft.co.krSeoul, 2-6080-4881Econtact@gb-soft.co.krCEOKibum",
+            "homepageUrl": "gb-soft.co.kr",
+            "jobTitle": "[(주)지비소프트] 사업기획 경력직 채용(대리~과장급)",
+            "employeeCount": "37 명  (2024년 기준)",
+            "profit": "37억 9,406만원                                                                    (2022년 기준)"
+        },
+        "47762639": {
+            "companyName": "퍼솔켈리코리아(유)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.persolkelly.kr",
+            "jobTitle": "[글로벌 스포츠 미디어 그룹] Marketing Manager",
+            "employeeCount": "350 명  (2014년 기준)",
+            "profit": "131억 5,194만원                                                                    (2014년 기준)"
+        },
+        "47762916": {
+            "companyName": "에이전시커넥션",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[에이전시커넥션] 10시출근 5시퇴근하는 패션홍보대행사",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47763313": {
+            "companyName": "(주)페르노리카코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.pernod-ricard-korea.com",
+            "jobTitle": "[페르노리카 코리아] Trade Marketing 인턴",
+            "employeeCount": "140 명  (2016년 기준)",
+            "profit": "1,055억 7,518만원                                                                    (2016년 기준)"
+        },
+        "47763342": {
+            "companyName": "피플뱅크코리아(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "peoplebank.co.kr",
+            "jobTitle": "퍼포먼스 마케터 운영",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47763493": {
+            "companyName": "(주)펙타글로벌",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.fecta.io",
+            "jobTitle": "[주2회 재택근무] 주니어 마케터를 모집합니다.",
+            "employeeCount": "12 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47763688": {
+            "companyName": "히어(hehr)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "히어(hehr) 온라인 쇼핑몰 경력직 직원 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47764337": {
+            "companyName": "(주)유비소시어스",
+            "phoneNumbers": "02-6257-8313, 02-6217-8391",
+            "email": "hr@ubsocius.com",
+            "homepageUrl": "www.ubsocius.com",
+            "jobTitle": "브랜드 마케터,5-10년,중견외식기업",
+            "employeeCount": "50 명  (2019년 기준)",
+            "profit": "null"
+        },
+        "47764643": {
+            "companyName": "(주)에프앤엘코퍼레이션",
+            "phoneNumbers": "070-4513-1408",
+            "email": "business@fnlcorp.kr, sales@fnlcorp.kr, mkt@fnlcorp.kr",
+            "homepageUrl": "flimeal.com",
+            "jobTitle": "[플라이밀] 미국 마케터 채용",
+            "employeeCount": "26 명  (2024년 기준)",
+            "profit": "111억 1,680만원                                                                    (2023년 기준)"
+        },
+        "47765740": {
+            "companyName": "엠제이메디컬(MJ메디컬)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "병원경영지원회사(MSO) 마케터, 디자이너 [채용]",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47766461": {
+            "companyName": "(주)메디앤리서치",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "화장품 브랜드 JUSTBEME 면세점(본사 교대) 담당 채용(5명)",
+            "employeeCount": "4 명  (2024년 기준)",
+            "profit": "19억 9,274만원                                                                    (2023년 기준)"
+        },
+        "47767578": {
+            "companyName": "(주)비즈니스인사이트",
+            "phoneNumbers": "02-539-9339, 02-539-9335",
+            "email": "mail@businessinsight.co.kr",
+            "homepageUrl": "www.businessinsight.co.kr",
+            "jobTitle": "간편식(HMR) 상품기획 MD 신입/경력직 채용",
+            "employeeCount": "23 명  (2024년 기준)",
+            "profit": "140억 4,317만원                                                                    (2022년 기준)"
+        },
+        "47767996": {
+            "companyName": "더라미(주)",
+            "phoneNumbers": "1811-9778, 02-3452-8449, 02-2230-6851",
+            "email": "null",
+            "homepageUrl": "www.thelamy.co.kr",
+            "jobTitle": "홈쇼핑 마케터 구인",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47768527": {
+            "companyName": "RIGOL KOREA",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[RIGOL Korea] Marketing & E-commerce Specialist",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47769821": {
+            "companyName": "애피어코리아 주식회사",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://www.appier.com/",
+            "jobTitle": "[애피어 코리아] AI Digital Marketing Sales (AI 광고영업)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47770511": {
+            "companyName": "청담우리들병원",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "cheongdam.wooridul.co.kr/",
+            "jobTitle": "우리들병원 학술홍보실 직원 채용 공고",
+            "employeeCount": "370 명  (2011년 기준)",
+            "profit": "763억 4,585만원                                                                    (2011년 기준)"
+        },
+        "47771266": {
+            "companyName": "(주)에임즈인터내셔널코리아",
+            "phoneNumbers": "null",
+            "email": "edward@aimskorea.com",
+            "homepageUrl": "www.aimskorea.com",
+            "jobTitle": "[글로벌 패션] Sr. Marketing Mgr. (Head of Marketing / 영어)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47772068": {
+            "companyName": "(주)믹스위드",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.mixwith.co.kr",
+            "jobTitle": "BTL 신입/경력 기획자 및 디자이너를 모십니다.",
+            "employeeCount": "5 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47772189": {
+            "companyName": "(주)예지솔루션",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.ye-ji.com",
+            "jobTitle": "[주35시간] MZ선호기업에서 지그재그 전문마케터가 되고 싶은 분",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47773437": {
+            "companyName": "(주)드림커뮤니케이션즈",
+            "phoneNumbers": "02-515-4114, 02-514-5580",
+            "email": "pr@dreamcom.co.kr",
+            "homepageUrl": "www.dreamcom.co.kr",
+            "jobTitle": "[홍보대행사] 그래픽 디자이너 경력 모집",
+            "employeeCount": "20 명  (2018년 기준)",
+            "profit": "20억원                                                                    (2018년 기준)"
+        },
+        "47773549": {
+            "companyName": "(주)국일출판사",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "-",
+            "jobTitle": "출판 영상 촬영 홍보마케터를 모십니다",
+            "employeeCount": "5 명  (2024년 기준)",
+            "profit": "31억 2,101만원                                                                    (2013년 기준)"
+        },
+        "47773699": {
+            "companyName": "(주)서울옥션",
+            "phoneNumbers": "02-395-0330",
+            "email": "null",
+            "homepageUrl": "www.seoulauction.com",
+            "jobTitle": "서울옥션 브랜드기획팀 계약직 채용",
+            "employeeCount": "120 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47773899": {
+            "companyName": "(주)그레이시티",
+            "phoneNumbers": "010-8775-0680, 010-2663-0680",
+            "email": "graycity0510@naver.comADDRESS",
+            "homepageUrl": "https://www.graycityscalp.com",
+            "jobTitle": "[그레이시티] 2024 상반기 영상 PD 공개 채용",
+            "employeeCount": "15 명  (2023년 기준)",
+            "profit": "32억 5,034만원                                                                    (2022년 기준)"
+        },
+        "47775502": {
+            "companyName": "케이피커뮤니케이션(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.kpcommunication.co.kr/",
+            "jobTitle": "광고PR본부 신입/경력 채용 공고",
+            "employeeCount": "15 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47777088": {
+            "companyName": "(주)우리누리",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.woorinuri.com",
+            "jobTitle": "홍보부문 신입/경력직 정규직 채용 [서울 지역사업실]",
+            "employeeCount": "40 명  (2021년 기준)",
+            "profit": "57억 6,334만원                                                                    (2021년 기준)"
+        },
+        "47777098": {
+            "companyName": "(주)씨트립코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "kr.trip.com",
+            "jobTitle": "[Trip.com Group] Marketing Campaign Specialist",
+            "employeeCount": "null",
+            "profit": "91억 6,956만원                                                                    (2020년 기준)"
+        },
+        "47777182": {
+            "companyName": "(주)실리만",
+            "phoneNumbers": "02-324-5831, 080-868-8989",
+            "email": "sillymann@sillymann.com",
+            "homepageUrl": "http://www.sillymann.com",
+            "jobTitle": "실리만 해외영업본부 경력직 모집",
+            "employeeCount": "null",
+            "profit": "83억 6,008만원                                                                    (2022년 기준)"
+        },
+        "47777405": {
+            "companyName": "티디컴퍼니",
+            "phoneNumbers": "1551-2275, 02-3275-1568",
+            "email": "tdcompany@naver.com",
+            "homepageUrl": "http://tdcompany.co.kr",
+            "jobTitle": "[경력 우대] 동물병원 온라인 마케터 채용",
+            "employeeCount": "null",
+            "profit": "8억 1,201만원                                                                    (2019년 기준)"
+        },
+        "47778090": {
+            "companyName": "강남서울밝은안과",
+            "phoneNumbers": "1588-3882, 02-3454-0076",
+            "email": "null",
+            "homepageUrl": "http://www.smartlasik.co.kr",
+            "jobTitle": "강남서울밝은안과 홍보팀장 채용",
+            "employeeCount": "40 명  (2012년 기준)",
+            "profit": "null"
+        },
+        "47778471": {
+            "companyName": "(주)코멘토",
+            "phoneNumbers": "070-4154-0804",
+            "email": "null",
+            "homepageUrl": "comento.kr",
+            "jobTitle": "코멘토 마케터 인턴 채용",
+            "employeeCount": "48 명  (2024년 기준)",
+            "profit": "38억 792만원                                                                    (2022년 기준)"
+        },
+        "47779589": {
+            "companyName": "쿼럼바이오헬스케어(주)",
+            "phoneNumbers": "02-762-2830",
+            "email": "cs@lutooth.com",
+            "homepageUrl": "https://www.quorumbio.com",
+            "jobTitle": "쿼럼바이오㈜ 각 부문 공개채용 [바이럴 마케터, 컨텐츠 에디터]",
+            "employeeCount": "5 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47780232": {
+            "companyName": "JWCAREER",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.jwcareer.com",
+            "jobTitle": "국내중견기업(외식 프랜차이즈) / 해외사업",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47781223": {
+            "companyName": "베스트파트너스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "MZ이 선망하는 기업에서 일본 인플루언서 마케터 초빙",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47781657": {
+            "companyName": "피알게이트(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[종합홍보대행사 PRGATE] 언론홍보 경력 사원 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47782415": {
+            "companyName": "(주)에이치비엔터테인먼트",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.hbenter.com",
+            "jobTitle": "HB엔터테인먼트 홍보팀 콘텐츠(사진, 영상) 담당 채용",
+            "employeeCount": "30 명  (2016년 기준)",
+            "profit": "303억 302만원                                                                    (2016년 기준)"
+        },
+        "47783139": {
+            "companyName": "(주)킹케어",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "SNS 광고 콘텐츠 제작 및 퍼포먼스/바이럴 마케터 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47783252": {
+            "companyName": "팩트블록(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "factblock.com",
+            "jobTitle": "[팩트블록] 언론홍보 담당자(3년 이상)",
+            "employeeCount": "24 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47783440": {
+            "companyName": "(주)이인벤션",
+            "phoneNumbers": "02-6941-1320, 02-2179-8298",
+            "email": "media@einvention.co.kr",
+            "homepageUrl": "http://einvention.co.kr",
+            "jobTitle": "[초봉3000] 네이버/카카오 공식대행사 디지털 광고 마케터 채용",
+            "employeeCount": "54 명  (2023년 기준)",
+            "profit": "534억 3,240만원                                                                    (2023년 기준)"
+        },
+        "47784518": {
+            "companyName": "(주)피플케어코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "뷰티 유아 생활용품 퍼포먼스 마케터 (경력직) 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47784664": {
+            "companyName": "파워에이치알",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[ 기업 홍보(SNS) 경력자 채용 ] 광고대행사",
+            "employeeCount": "28 명  (2012년 기준)",
+            "profit": "12억원                                                                    (2012년 기준)"
+        },
+        "47784949": {
+            "companyName": "(주)라온서치",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.raonsearch.co.kr",
+            "jobTitle": "[유수의 화장품 기업] 글로벌 온라인 MD 채용(3년이상)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47785476": {
+            "companyName": "에이피써치",
+            "phoneNumbers": "null",
+            "email": "steve@apsearch.co.kr",
+            "homepageUrl": "www.apsearch.co.kr",
+            "jobTitle": "[외국계 명품 브랜드] Event and Influence Marketing Manager",
+            "employeeCount": "23 명  (2017년 기준)",
+            "profit": "20억원                                                                    (2017년 기준)"
+        },
+        "47786593": {
+            "companyName": "원앤원㈜",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.wonandone.co.kr",
+            "jobTitle": "[원할머니본사] 외식업 광고홍보 팀장 채용",
+            "employeeCount": "211 명  (2022년 기준)",
+            "profit": "890억원                                                                    (2022년 기준)"
+        },
+        "47786812": {
+            "companyName": "(주)카고컨테이너",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "퍼포먼스 마케터 신입 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47787874": {
+            "companyName": "플러스제로(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "SEO(Search Engine Optimization) 전문가 모집",
+            "employeeCount": "16 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47788030": {
+            "companyName": "(주)아이아이컴바인드",
+            "phoneNumbers": "1600-2126",
+            "email": "cs@gentlemonster.com",
+            "homepageUrl": "gentlemonster.com",
+            "jobTitle": "[젠틀몬스터] 커뮤니케이션&플래닝 중화권 중국 담당자 모집",
+            "employeeCount": "1,094 명  (2024년 기준)",
+            "profit": "3,181억 8,596만원                                                                    (2022년 기준)"
+        },
+        "47788092": {
+            "companyName": "(주)블루메디텍",
+            "phoneNumbers": "02-2216-1797",
+            "email": "blue@bluemeditech.com",
+            "homepageUrl": "www.bluemeditech.com",
+            "jobTitle": "[의료기기] 영업직군 신입/경력사원 모집",
+            "employeeCount": "11 명  (2024년 기준)",
+            "profit": "31억 4,431만원                                                                    (2022년 기준)"
+        },
+        "47788150": {
+            "companyName": "굿모닝애드",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.goodmorning-ad.com/",
+            "jobTitle": "2024년 온라인 광고 CPA 퍼포먼스 마케터 경력 채용 공고",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47788581": {
+            "companyName": "(주)코어피플",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.corepeople.co.kr",
+            "jobTitle": "[중견기업] 국내 화장품 브랜드 기초 BM 경력 2년 이상",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47788756": {
+            "companyName": "(주)딥다이브",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://bit.ly/3Q74HJ5",
+            "jobTitle": "퍼포먼스 마케터 인턴 (6개월, 체험형)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47788908": {
+            "companyName": "(사)도전과나눔",
+            "phoneNumbers": "02-558-5875, 02-558-5876",
+            "email": "null",
+            "homepageUrl": "www.dona.kr",
+            "jobTitle": "[사단법인 도전과나눔] 기업 홍보 담당 신입/경력 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47788990": {
+            "companyName": "S-OIL(주)",
+            "phoneNumbers": "1644-5151",
+            "email": "null",
+            "homepageUrl": "www.s-oil.com",
+            "jobTitle": "S-OIL 경력사원 채용 (PE 제품 영업)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47789715": {
+            "companyName": "(주)에뛰드",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.etude.co.kr",
+            "jobTitle": "[경력] '24년 에뛰드 경력사원 수시채용",
+            "employeeCount": "115 명  (2024년 기준)",
+            "profit": "1,059억 8,771만원                                                                    (2022년 기준)"
+        },
+        "47789783": {
+            "companyName": "(주)르데스크",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.ledesk.co.kr",
+            "jobTitle": "르데스크와 함께 성장할 영상 콘텐츠 에디터를 모집합니다",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47789942": {
+            "companyName": "(주)비디오빌리지",
+            "phoneNumbers": "02-388-8510",
+            "email": "mediasales@videovillage.co.kr",
+            "homepageUrl": "http://videovillage.co.kr/",
+            "jobTitle": "[비디오빌리지] 커머스 매니저를 모집합니다.",
+            "employeeCount": "19 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47790087": {
+            "companyName": "",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47790119": {
+            "companyName": "HeNny & McCoy",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.hennymccoy.com",
+            "jobTitle": "Digital Marketing Manager - 글로벌 건설기계장비",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47790150": {
+            "companyName": "(주)한산마케팅연구원",
+            "phoneNumbers": "02-588-2480, 02-588-2599",
+            "email": "null",
+            "homepageUrl": "www.kimikorea.com",
+            "jobTitle": "전시팀 기획 및 운영 팀원 채용 [서울/부산]",
+            "employeeCount": "14 명  (2021년 기준)",
+            "profit": "36억 3,396만원                                                                    (2021년 기준)"
+        },
+        "47790391": {
+            "companyName": "(주)메디프레소",
+            "phoneNumbers": "02-2224-5933",
+            "email": "info@medipresso.com",
+            "homepageUrl": "www.medipresso.com",
+            "jobTitle": "[메디프레소] 온라인 퍼포먼스 마케터 모집(AMD)",
+            "employeeCount": "14 명  (2024년 기준)",
+            "profit": "13억 2,898만원                                                                    (2022년 기준)"
+        },
+        "47790496": {
+            "companyName": "(주)위드플래닝",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "withplanning.co.kr",
+            "jobTitle": "2024 (주)위드플래닝 기획자 정규직 모집",
+            "employeeCount": "12 명  (2024년 기준)",
+            "profit": "25억 7,805만원                                                                    (2022년 기준)"
+        },
+        "47790824": {
+            "companyName": "(주)하이랜드푸드",
+            "phoneNumbers": "02-6423-3700, 02-6008-0951",
+            "email": "null",
+            "homepageUrl": "www.highlandfoods.co.kr",
+            "jobTitle": "하이랜드이노베이션 R&D담당자 채용(서울 근무)",
+            "employeeCount": "97 명  (2024년 기준)",
+            "profit": "9,021억 4,716만원                                                                    (2023년 기준)"
+        },
+        "47790851": {
+            "companyName": "애드미디어센터",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "온라인 TM영업사원 모집[친구가능/신입가능]",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47791334": {
+            "companyName": "원앤원㈜",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.wonandone.co.kr",
+            "jobTitle": "[원할머니 본사] HMR 식품 가공 유통 상품 기획 경력직 채용",
+            "employeeCount": "211 명  (2022년 기준)",
+            "profit": "890억원                                                                    (2022년 기준)"
+        },
+        "47791427": {
+            "companyName": "(주)부스트랩",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "미디어 커머스 퍼포먼스 마케터 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47791629": {
+            "companyName": "서윤웰스(주)",
+            "phoneNumbers": "070-7816-5010, 005-104-1517",
+            "email": "sywells@sywells.co.kr, seoyoonwells@gmail.com, 897231@renopti.kr",
+            "homepageUrl": "renopti.kr",
+            "jobTitle": "[레놉티]콘텐츠 마케터 신입사원모집",
+            "employeeCount": "null",
+            "profit": "5,912만원                                                                    (2022년 기준)"
+        },
+        "47791648": {
+            "companyName": "서윤웰스(주)",
+            "phoneNumbers": "070-7816-5010, 005-104-1517",
+            "email": "sywells@sywells.co.kr, seoyoonwells@gmail.com, 897231@renopti.kr",
+            "homepageUrl": "renopti.kr",
+            "jobTitle": "[레놉티]콘텐츠 마케터 경력사원모집",
+            "employeeCount": "null",
+            "profit": "5,912만원                                                                    (2022년 기준)"
+        },
+        "47791656": {
+            "companyName": "(주)오니스트",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.ownist.kr",
+            "jobTitle": "브랜드 마케터 인턴 채용",
+            "employeeCount": "15 명  (2024년 기준)",
+            "profit": "57억 398만원                                                                    (2023년 기준)"
+        },
+        "47792110": {
+            "companyName": "에이스휴먼파워(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.acehp.co.kr",
+            "jobTitle": "[정규직/면접비] LG U+ 단순상담/복지최상/콜수적음/담당자강추",
+            "employeeCount": "4,500 명  (2022년 기준)",
+            "profit": "919억 3,800만원                                                                    (2022년 기준)"
+        },
+        "47792116": {
+            "companyName": "(주)슬라운드",
+            "phoneNumbers": "02-2135-2190",
+            "email": "contact@slound.co.kr",
+            "homepageUrl": "slound.co.kr",
+            "jobTitle": "슬라운드와 함께 성장할 콘텐츠 마케터를 찾습니다",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47792428": {
+            "companyName": "(의)효림의료재단",
+            "phoneNumbers": "031-919-0041, 010-4130-0041",
+            "email": "sehorwb@naver.com",
+            "homepageUrl": "http://hyorim-h.com",
+            "jobTitle": "지하철 200m 일산요양병원 원무과장급 사회복지사 모십니다.",
+            "employeeCount": "null",
+            "profit": "45억 3,782만원                                                                    (2022년 기준)"
+        },
+        "47793171": {
+            "companyName": "(주)맨파워그룹코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://manpower.co.kr",
+            "jobTitle": "[생활용품/올리브영1위] Sr. 콘텐츠 마케터-(리더/중간관리자급)",
+            "employeeCount": "2,213 명  (2024년 기준)",
+            "profit": "1,257억 3,621만원                                                                    (2022년 기준)"
+        },
+        "47794570": {
+            "companyName": "",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47794796": {
+            "companyName": "(주)퍼씰학원",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "(주)퍼씰학원 / 운영기획팀 / 사무직 / 분위기 평균 이상 보장",
+            "employeeCount": "9 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47795491": {
+            "companyName": "(주)미래아이엔씨",
+            "phoneNumbers": "02-6233-4730, 02-6233-4700, 02-701-5000",
+            "email": "km.kyung@toup.net",
+            "homepageUrl": "www.toup.net/",
+            "jobTitle": "[초봉3천+인센티브/금요일 17시퇴근] 공식광고대행사 신입 채용",
+            "employeeCount": "132 명  (2024년 기준)",
+            "profit": "227억 2,399만원                                                                    (2022년 기준)"
+        },
+        "47796074": {
+            "companyName": "법무법인 형사변호사 판심",
+            "phoneNumbers": "1660-0722, 010-8702-0200, 02-523-0533",
+            "email": "judgemind@naver.com",
+            "homepageUrl": "https://www.judgemind.co.kr/",
+            "jobTitle": "[판심법무법인] 변호사/법률마케팅. 인하우스 법률마케터",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47797760": {
+            "companyName": "솔트웨어(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.saltware.co.kr",
+            "jobTitle": "솔트웨어 AWS 클라우드 Sales / BDM 채용",
+            "employeeCount": "107 명  (2021년 기준)",
+            "profit": "400억 2,205만원                                                                    (2021년 기준)"
+        },
+        "47797784": {
+            "companyName": "(주)베스트에치알 (Best HR)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.besthr.co.kr",
+            "jobTitle": "건강기능식품/화장품 원료 해외영업 - 바이오 헬스케어회사",
+            "employeeCount": "20 명  (2013년 기준)",
+            "profit": "null"
+        },
+        "47798323": {
+            "companyName": "고려기프트(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.koreagift.com",
+            "jobTitle": "[본사] 판촉물 온라인 쇼핑몰 MD 채용공고",
+            "employeeCount": "66 명  (2022년 기준)",
+            "profit": "1,154억 5,443만원                                                                    (2022년 기준)"
+        },
+        "47798354": {
+            "companyName": "다움성형외과의원",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "dawoomps.com",
+            "jobTitle": "[강남역] 다움성형외과 데스크 사무행정 신입 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47798518": {
+            "companyName": "(주)트랜스코스모스코리아",
+            "phoneNumbers": "790-8272, 1899-1632, 489-7505, 877-6817",
+            "email": "null",
+            "homepageUrl": "www.trans-cosmos.co.kr",
+            "jobTitle": "당사 채팅 비즈니스 (채팅/챗봇) 기획 및 운영 담당자 채용 Mq9W",
+            "employeeCount": "9,054 명  (2024년 기준)",
+            "profit": "4,038억 2,698만원                                                                    (2023년 기준)"
+        },
+        "47798733": {
+            "companyName": "(주)제이오알알앤디",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[제이엠솔루션] 화장품 상품기획 BM 신입, 경력 채용",
+            "employeeCount": "32 명  (2024년 기준)",
+            "profit": "841억 2,799만원                                                                    (2022년 기준)"
+        },
+        "47798754": {
+            "companyName": "(주)신지모루",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.sinjimoru.com",
+            "jobTitle": "[신입/경력] 제품기획 담당자",
+            "employeeCount": "157 명  (2024년 기준)",
+            "profit": "680억 5,864만원                                                                    (2023년 기준)"
+        },
+        "47798866": {
+            "companyName": "(주)가우포토",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "gauphoto.co.kr",
+            "jobTitle": "촬영장비 쇼핑몰 MD, 영업, AS 수리담당 채용",
+            "employeeCount": "18 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47799064": {
+            "companyName": "(주)사람인에이치에스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.saraminhs.co.kr",
+            "jobTitle": "[잠실/재택병행/대기업] 쿠팡 PBS팀 AMD 채용 (신입가능)",
+            "employeeCount": "1,300 명  (2021년 기준)",
+            "profit": "270억원                                                                    (2021년 기준)"
+        },
+        "47799174": {
+            "companyName": "(주)벨르제이",
+            "phoneNumbers": "02-546-3757, 02-545-3759",
+            "email": "bellejmall@naver.com",
+            "homepageUrl": "bellej.co.kr",
+            "jobTitle": "브랜드 마케터(BM) 경력사원 모집",
+            "employeeCount": "8 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47799471": {
+            "companyName": "(주)벨르제이",
+            "phoneNumbers": "02-546-3757, 02-545-3759",
+            "email": "bellejmall@naver.com",
+            "homepageUrl": "bellej.co.kr",
+            "jobTitle": "브랜드 마케터(BM) 신입사원 모집",
+            "employeeCount": "8 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47799821": {
+            "companyName": "(주)어비스컴퍼니",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.abysscompany.com",
+            "jobTitle": "[어비스컴퍼니] 콘텐츠디자인팀 디자이너 사원급 채용",
+            "employeeCount": "null",
+            "profit": "6억 4,957만원                                                                    (2020년 기준)"
+        },
+        "47799887": {
+            "companyName": "(주)어비스컴퍼니",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.abysscompany.com",
+            "jobTitle": "[어비스컴퍼니] 아티스트 콘텐츠제작 사원급 채용",
+            "employeeCount": "null",
+            "profit": "6억 4,957만원                                                                    (2020년 기준)"
+        },
+        "47800160": {
+            "companyName": "마크모크",
+            "phoneNumbers": "02-6339-8240",
+            "email": "help@macmoc.com",
+            "homepageUrl": "http://www.macmoc.com",
+            "jobTitle": "디자이너 브랜드 [마크모크] SNS 담당자 채용공고",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47800255": {
+            "companyName": "(주)유웨이써치앤컨설팅",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.uwaysnc.com",
+            "jobTitle": "자동차 부품 제조 대기업 해외영업팀 경력자 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47800552": {
+            "companyName": "(주)유웨이써치앤컨설팅",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.uwaysnc.com",
+            "jobTitle": "글로벌 자동차 부품 제조 대기업 해외영업 경력자 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47800905": {
+            "companyName": "(주)그린스토어",
+            "phoneNumbers": "1544-2492, 031-718-7032",
+            "email": "null",
+            "homepageUrl": "http://green-store.co.kr/kor/main/#page1",
+            "jobTitle": "(주)그린스토어 온라인 MD 경력직 채용",
+            "employeeCount": "194 명  (2024년 기준)",
+            "profit": "449억 2,524만원                                                                    (2022년 기준)"
+        },
+        "47800949": {
+            "companyName": "(주)유호스트",
+            "phoneNumbers": "523-3970, 523-3971",
+            "email": "null",
+            "homepageUrl": "www.youhost.co.kr",
+            "jobTitle": "[서초/정규직/금요일 재택] 사업기획 및 에너지효율화 담당 채용",
+            "employeeCount": "179 명  (2024년 기준)",
+            "profit": "128억 2,430만원                                                                    (2022년 기준)"
+        },
+        "47801149": {
+            "companyName": "메리츠화재해상보험(주)",
+            "phoneNumbers": "1688-7711",
+            "email": "null",
+            "homepageUrl": "https://www.meritzfire.com",
+            "jobTitle": "자동차상품, TM 경력직 채용공고",
+            "employeeCount": "2,837 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47801297": {
+            "companyName": "(주)뷰케이코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "라씨엘르 브랜드 컨텐츠 디자이너 모집",
+            "employeeCount": "46 명  (2024년 기준)",
+            "profit": "96억 4,165만원                                                                    (2022년 기준)"
+        },
+        "47801461": {
+            "companyName": "(주)탑노트컴퍼니",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "라이프스타일 유튜버 소속사 mcn 탑노트컴퍼니 팀원 모집",
+            "employeeCount": "3 명  (2024년 기준)",
+            "profit": "6,967만원                                                                    (2019년 기준)"
+        },
+        "47801485": {
+            "companyName": "(주)커리어넷",
+            "phoneNumbers": "1577-9577",
+            "email": "helpdesk@career.co.kr",
+            "homepageUrl": "www.career.co.kr",
+            "jobTitle": "[커리어넷] 유튜브 컨텐츠 제작자 채용",
+            "employeeCount": "338 명  (2016년 기준)",
+            "profit": "275억 7,645만원                                                                    (2016년 기준)"
+        },
+        "47801507": {
+            "companyName": "나우팜컨설팅",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.nowpharm.co.kr",
+            "jobTitle": "중견제약사 ETC PM / 간,위장관 파트 ,1년 이상",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47801744": {
+            "companyName": "이디티씨(EDTC)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.notion.so/edtc/EDTC-cb1ab3fc1ffd4b009f2c563b0934b69a",
+            "jobTitle": "이커머스 경영지원 사무회계 부문 모집중",
+            "employeeCount": "null",
+            "profit": "19억원                                                                    (2020년 기준)"
+        },
+        "47802021": {
+            "companyName": "M휘트니스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "M휘트니스에서 데스크 영업사원 & 텔레 마케터 구인 A,B 파트",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47802447": {
+            "companyName": "(주)와이즈플래닛컴퍼니",
+            "phoneNumbers": "02-830-1912, 02-830-1913",
+            "email": "null",
+            "homepageUrl": "wplanet.co.kr",
+            "jobTitle": "[화장품/뷰티] 상품기획/개발 BM(브랜드 매니저) 채용",
+            "employeeCount": "87 명  (2022년 기준)",
+            "profit": "574억 1,900만원                                                                    (2022년 기준)"
+        },
+        "47803211": {
+            "companyName": "(주)세븐헌드레드",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "(경력) 카피와 아트를 포함한 기획가능한 영상PD",
+            "employeeCount": "null",
+            "profit": "12억 812만원                                                                    (2021년 기준)"
+        },
+        "47803266": {
+            "companyName": "(주)세븐헌드레드",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "(경력) 기획 가능한 유튜브PD",
+            "employeeCount": "null",
+            "profit": "12억 812만원                                                                    (2021년 기준)"
+        },
+        "47803296": {
+            "companyName": "(주)에어라인네트워크센터",
+            "phoneNumbers": "02-6959-1955, 02-512-1467, 032-502-3356, 504-373-0407, 051-803-0004, 051-803-8812",
+            "email": "sasoo107@hanmail.net",
+            "homepageUrl": "http://anc.co.kr",
+            "jobTitle": "크루팩토리 승무원학원 학원관리·운영·상담 정규직 채용",
+            "employeeCount": "10 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47803307": {
+            "companyName": "(주)오케이다이렉트대부중개",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "designloan.co.kr/",
+            "jobTitle": "(주)오케이다이렉트대부중개 광고기획(AE) 경력직 정규직 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47803314": {
+            "companyName": "(주)아이뱅크",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.digitalworks.co.kr",
+            "jobTitle": "[디지털웍스] Nike.com(나이키) 자사몰 온라인 운영 관리자 채용",
+            "employeeCount": "208 명  (2024년 기준)",
+            "profit": "240억 2,823만원                                                                    (2022년 기준)"
+        },
+        "47803327": {
+            "companyName": "(주)백아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "crewfactory.com",
+            "jobTitle": "[ANC 크루팩토리 승무원학원] 항공과 입시 학원상담 수강생관리",
+            "employeeCount": "72 명  (2016년 기준)",
+            "profit": "34억원                                                                    (2016년 기준)"
+        },
+        "47803478": {
+            "companyName": "(주)온더트리플러스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.onthetreeplus.co.kr/",
+            "jobTitle": "[워라벨실천기업]디지털마케터 AE 정규직 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47803503": {
+            "companyName": "동호에이치알(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[정규직/연봉협의] 세아FS 자동차 부품 해외OEM 개발영업 채용",
+            "employeeCount": "800 명  (2016년 기준)",
+            "profit": "176억 9,279만원                                                                    (2016년 기준)"
+        },
+        "47803773": {
+            "companyName": "어썸피플(주)",
+            "phoneNumbers": "02-457-4720",
+            "email": "ceo@awesomecorp.kr",
+            "homepageUrl": "www.awesomecorp.kr",
+            "jobTitle": "콘텐츠 마케터 채용 [신입]",
+            "employeeCount": "5 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47803880": {
+            "companyName": "어썸피플(주)",
+            "phoneNumbers": "02-457-4720",
+            "email": "ceo@awesomecorp.kr",
+            "homepageUrl": "www.awesomecorp.kr",
+            "jobTitle": "바이럴마케터 - 신입",
+            "employeeCount": "5 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47803896": {
+            "companyName": "(주)바나플에프엔비",
+            "phoneNumbers": "null",
+            "email": "qna@banapresso.com",
+            "homepageUrl": "http://www.banapresso.com",
+            "jobTitle": "[바나프레소] CMO 채용",
+            "employeeCount": "366 명  (2024년 기준)",
+            "profit": "301억 2,643만원                                                                    (2022년 기준)"
+        },
+        "47804029": {
+            "companyName": "컬쳐띵크(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "컬쳐띵크(주) 인턴/신입/경력 채용 공고",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47804109": {
+            "companyName": "(주)덕다이버",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "SNS 콘텐츠 마케터 PM (팀장급, 5년차 이상)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47804779": {
+            "companyName": "(주)에이치투케이",
+            "phoneNumbers": "1600-0902",
+            "email": "info@h2kresearch.com",
+            "homepageUrl": "sojunghangeul.com/",
+            "jobTitle": "콘텐츠 마케터 경력 채용",
+            "employeeCount": "25 명  (2023년 기준)",
+            "profit": "6억 4,917만원                                                                    (2021년 기준)"
+        },
+        "47805076": {
+            "companyName": "(주)논픽션",
+            "phoneNumbers": "1666-7891",
+            "email": "null",
+            "homepageUrl": "https://nonfiction.com/",
+            "jobTitle": "[논픽션 Global Marketing] Product MKT Manager(상품기획) 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47805310": {
+            "companyName": "(주)에제드",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.e-zed.kr/",
+            "jobTitle": "디지털 광고 AE 경력사원 채용",
+            "employeeCount": "null",
+            "profit": "10억 9,428만원                                                                    (2022년 기준)"
+        },
+        "47805331": {
+            "companyName": "(주)네스트",
+            "phoneNumbers": "1599-3880, 303-0955-3880",
+            "email": "info@nestshop.co.kr",
+            "homepageUrl": "www.nestshop.co.kr",
+            "jobTitle": "네스트 건축자재 공개채용 영상편집 분야",
+            "employeeCount": "6 명  (2024년 기준)",
+            "profit": "33억 2,415만원                                                                    (2020년 기준)"
+        },
+        "47805383": {
+            "companyName": "에이플래닛엔터테인먼트(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "aplanetent.com",
+            "jobTitle": "해외 광고 및 공연 기획 정규직 모집 (영어 가능자 우대)",
+            "employeeCount": "7 명  (2023년 기준)",
+            "profit": "80억원                                                                    (2023년 기준)"
+        },
+        "47805442": {
+            "companyName": "청담우리들병원",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "cheongdam.wooridul.co.kr/",
+            "jobTitle": "청담우리들병원 홍보 담당자 모집 공고",
+            "employeeCount": "370 명  (2011년 기준)",
+            "profit": "763억 4,585만원                                                                    (2011년 기준)"
+        },
+        "47805577": {
+            "companyName": "(주)퍼플랩스헬스케어",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://www.serybox.com/",
+            "jobTitle": "[세리박스-PLH] 컨텐츠 기획자 채용",
+            "employeeCount": "32 명  (2024년 기준)",
+            "profit": "316억 6,630만원                                                                    (2022년 기준)"
+        },
+        "47805969": {
+            "companyName": "CKT컴퍼니",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "마곡 발산 경력무관 함께 성장해나갈 신입 마케터 구인합니다",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47806002": {
+            "companyName": "(주)애드픽션",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.adfiction.co.kr/",
+            "jobTitle": "[10시출근 5시퇴근][워라벨 기업] 광고대행사/신입경력 모집",
+            "employeeCount": "14 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47806137": {
+            "companyName": "알엘에이피(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[로벡틴] 글로벌2팀 (해외영업) 팀장 정규직 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47806728": {
+            "companyName": "솔텍인포넷(주)",
+            "phoneNumbers": "02-701-8100, 02-701-6200, 070-4106-6200",
+            "email": "soltech@soltech.co.krA, as@soltech.co.kr",
+            "homepageUrl": "www.soltech.co.kr",
+            "jobTitle": "네트워크 쇼핑몰 온라인 MD 및 제품 소싱 담당자 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47806825": {
+            "companyName": "(주)엠로",
+            "phoneNumbers": "02-785-9848, 02-785-6990",
+            "email": "null",
+            "homepageUrl": "www.emro.co.kr",
+            "jobTitle": "Sales&Marketing 담당자 (경력, 채용 시 마감)",
+            "employeeCount": "322 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47806989": {
+            "companyName": "베리제이코리아(주)",
+            "phoneNumbers": "140-013-8031, 070-8801-4340",
+            "email": "cs@veryjkor.com",
+            "homepageUrl": "shopnewin.com/",
+            "jobTitle": "여성의류 브랜드 기획 및 총괄 디렉터 채용공고",
+            "employeeCount": "5 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47807049": {
+            "companyName": "(주)인터파크커머스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "https://shop.interpark.com/int/communication/CompanyInfo.do?_method=initial&wid1=footer&wid2=company",
+            "jobTitle": "[인터파크커머스] 제휴몰 운영 및 정산 담당자 채용(신입/경력)",
+            "employeeCount": "114 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47807057": {
+            "companyName": "(주)라이클컴퍼니",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[라이클] 자전거 커머스 플랫폼 콘텐츠 마케터 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47807478": {
+            "companyName": "(주)그로스체인",
+            "phoneNumbers": "null",
+            "email": "reserved.contact@growthchain.com",
+            "homepageUrl": "https://www.growthchain.com/",
+            "jobTitle": "[ 오래 기다리셨죠 ] 교육 서비스 기획 및 운영 신입/경력 모집",
+            "employeeCount": "22 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47807487": {
+            "companyName": "(주)파지티브호텔",
+            "phoneNumbers": "1522-3902, 02-546-7618, 031-601-7224",
+            "email": "positive@positivehotel.com",
+            "homepageUrl": "WWW.POSITIVEHOTEL.COM",
+            "jobTitle": "[파지티브호텔] 퍼포먼스마케터 채용",
+            "employeeCount": "20 명  (2024년 기준)",
+            "profit": "87억 9,534만원                                                                    (2023년 기준)"
+        },
+        "47807514": {
+            "companyName": "주식회사에피소드코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.episodeuntitled.co.kr",
+            "jobTitle": "쇼핑몰 관리자 및 웹 디자이너 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47807637": {
+            "companyName": "펑타이그레이터차이나(유)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.pt-korea.com",
+            "jobTitle": "[PTKOREA] 글로벌 대기업 플랫폼 UIUX 디자이너",
+            "employeeCount": "null",
+            "profit": "940억 5,063만원                                                                    (2022년 기준)"
+        },
+        "47807780": {
+            "companyName": "(의)효림의료재단",
+            "phoneNumbers": "031-919-0041, 010-4130-0041",
+            "email": "sehorwb@naver.com",
+            "homepageUrl": "http://hyorim-h.com",
+            "jobTitle": "일산 주엽역 효림요양병원 원무행정, 사회복지사 인턴모집",
+            "employeeCount": "null",
+            "profit": "45억 3,782만원                                                                    (2022년 기준)"
+        },
+        "47807862": {
+            "companyName": "(주)피플리",
+            "phoneNumbers": "null",
+            "email": "support@peopulley.com",
+            "homepageUrl": "www.peopulley.com",
+            "jobTitle": "[피플리] 온오프라인 전시 플랫폼 마케터(인턴) 채용",
+            "employeeCount": "60 명  (2022년 기준)",
+            "profit": "44억원                                                                    (2022년 기준)"
+        },
+        "47807943": {
+            "companyName": "더플레이스바이",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.theplaceby.com",
+            "jobTitle": "BM 채용합니다. 신입/경력 채용",
+            "employeeCount": "null",
+            "profit": "7억 9,361만원                                                                    (2022년 기준)"
+        },
+        "47808327": {
+            "companyName": "(주)엣지아이디어스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "광고회사 공동구매 및 인플루언서 바이럴 경력자 공채",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47808329": {
+            "companyName": "(주)우노헬스케어",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[의학유튜브] 영상편집, 유튜브 채널 운영할 분 모집 (신입가능)",
+            "employeeCount": "9 명  (2024년 기준)",
+            "profit": "7억 6,124만원                                                                    (2021년 기준)"
+        },
+        "47808576": {
+            "companyName": "HR컨설팅(주)",
+            "phoneNumbers": "02-522-3882, 02-522-3887",
+            "email": "null",
+            "homepageUrl": "http://www.hrcon.co.kr",
+            "jobTitle": "보험대기업계열 CRM마케터 3년-15년",
+            "employeeCount": "30 명  (2015년 기준)",
+            "profit": "20억원                                                                    (2015년 기준)"
+        },
+        "47808783": {
+            "companyName": "제이앤피에이치알컨설팅",
+            "phoneNumbers": "02-6010-9816",
+            "email": "null",
+            "homepageUrl": "www.jnphr.com",
+            "jobTitle": "(MNCs)  퍼포먼스 마케터 (팀장급)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47809365": {
+            "companyName": "(주)직업상점",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "카피라이터 신입&경력 모집",
+            "employeeCount": "17 명  (2024년 기준)",
+            "profit": "19억 9,036만원                                                                    (2022년 기준)"
+        },
+        "47809387": {
+            "companyName": "테라바텍(주)",
+            "phoneNumbers": "1533-6177",
+            "email": "daewoo1515@naver.com",
+            "homepageUrl": "www.thenet9.com/",
+            "jobTitle": "디자인 능력을 겸비한 콘텐츠 마케터 채용",
+            "employeeCount": "3 명  (2024년 기준)",
+            "profit": "5억 5,685만원                                                                    (2022년 기준)"
+        },
+        "47809495": {
+            "companyName": "(주)아이닉",
+            "phoneNumbers": "1800-8515, 031-696-5511",
+            "email": "inic@i-nic.co.kr",
+            "homepageUrl": "www.i-nic.co.kr",
+            "jobTitle": "콘텐츠마케터 팀장/팀원 채용",
+            "employeeCount": "84 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47809812": {
+            "companyName": "디지털퍼스트(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.dfirst-inc.com",
+            "jobTitle": "[디지털퍼스트] 미디어플래너 영입",
+            "employeeCount": "128 명  (2024년 기준)",
+            "profit": "136억 6,945만원                                                                    (2022년 기준)"
+        },
+        "47809825": {
+            "companyName": "디지털퍼스트(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.dfirst-inc.com",
+            "jobTitle": "[디지털퍼스트] 소셜기획자(AE) 영입",
+            "employeeCount": "128 명  (2024년 기준)",
+            "profit": "136억 6,945만원                                                                    (2022년 기준)"
+        },
+        "47809892": {
+            "companyName": "(주)시티건설",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "cityconst.co.kr",
+            "jobTitle": "[시티건설] 인사총무부 팀장 및 팀원 모집",
+            "employeeCount": "133 명  (2024년 기준)",
+            "profit": "4,167억 985만원                                                                    (2022년 기준)"
+        },
+        "47809982": {
+            "companyName": "(주)유앤아이엔젤스",
+            "phoneNumbers": "02-2276-1204",
+            "email": "null",
+            "homepageUrl": "www.uniangels.com",
+            "jobTitle": "송파 이전 예정) 수출입 무역 상품개발 직원 채용",
+            "employeeCount": "15 명  (2022년 기준)",
+            "profit": "150억원                                                                    (2022년 기준)"
+        },
+        "47810041": {
+            "companyName": "(주)리프이노베이션",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "marketleap.cafe24.com/",
+            "jobTitle": "[정규직/구로구/온라인/경력 1년이상] 마케터·상품운영MD 채용",
+            "employeeCount": "21 명  (2024년 기준)",
+            "profit": "93억 4,975만원                                                                    (2022년 기준)"
+        },
+        "47810440": {
+            "companyName": "소명소프트(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "smsts.co.kr/",
+            "jobTitle": "서비스 앱을 기획하고 적극적으로 홍보할 인재를 구합니다.",
+            "employeeCount": "10 명  (2024년 기준)",
+            "profit": "3억 873만원                                                                    (2022년 기준)"
+        },
+        "47810813": {
+            "companyName": "(주)하바스코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.havas.com",
+            "jobTitle": "Sr. Account Manager(광고기획) 경력 정규직 채용",
+            "employeeCount": "45 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47810909": {
+            "companyName": "피엠인터내셔널코리아(유)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.pmi-korea.com",
+            "jobTitle": "Sales 영업기획 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47811011": {
+            "companyName": "(주)마리오트로닉스",
+            "phoneNumbers": "null",
+            "email": "mario@mario-tronics.com",
+            "homepageUrl": "www.mario-tronics.com",
+            "jobTitle": "(주)마리오트로닉스 영업기획, 마케터 신입사원 모집",
+            "employeeCount": "27 명  (2024년 기준)",
+            "profit": "406억 2,828만원                                                                    (2022년 기준)"
+        },
+        "47811272": {
+            "companyName": "(주)싸이벡스코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[CYBEXKOREA] 퍼포먼스 마케터 모집합니다.",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47811596": {
+            "companyName": "(주)스카우트",
+            "phoneNumbers": "02-3482-3366",
+            "email": "Reserved02-3482-3366cs_agency@scout.co.kr",
+            "homepageUrl": "https://www.scout.co.kr/",
+            "jobTitle": "건강(기능)식품 상품 기획/개발  BM 채용",
+            "employeeCount": "469 명  (2024년 기준)",
+            "profit": "265억 3,178만원                                                                    (2023년 기준)"
+        },
+        "47811783": {
+            "companyName": "드림웨이",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "뷰티(화장품)기업, 북미 지역 틱톡 마케터 (인턴) 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47812068": {
+            "companyName": "세이브더칠드런코리아",
+            "phoneNumbers": "02-6900-4400, 02-6900-4499",
+            "email": "null",
+            "homepageUrl": "www.sc.or.kr",
+            "jobTitle": "세이브더칠드런 커뮤니케이션부문 브랜딩팀 담당자 모집",
+            "employeeCount": "481 명  (2018년 기준)",
+            "profit": "742억 4,449만원                                                                    (2018년 기준)"
+        },
+        "47812133": {
+            "companyName": "(주)초코펫하우스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "반려동물용품 네이버 스마트스토어 관리 경력자 모집",
+            "employeeCount": "5 명  (2023년 기준)",
+            "profit": "47억 8,829만원                                                                    (2022년 기준)"
+        },
+        "47812274": {
+            "companyName": "(주)달팩토리",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://dalfactory.com/",
+            "jobTitle": "[미디어 커머스] 국내 소싱 MD/영업 모집(정규직)",
+            "employeeCount": "20 명  (2020년 기준)",
+            "profit": "74억원                                                                    (2020년 기준)"
+        },
+        "47812427": {
+            "companyName": "피팅의원",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "피팅의원: 영어 상담 실장 채용합니다",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47812466": {
+            "companyName": "피팅의원",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "피팅의원: 일본어 상담실장 채용합니다",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47812473": {
+            "companyName": "",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47812809": {
+            "companyName": "(주)아데코코리아",
+            "phoneNumbers": "null",
+            "email": "Adecco.Korea@adecco.com",
+            "homepageUrl": "www.adecco.co.kr",
+            "jobTitle": "[외국계 Client PR Agency] PR 경력직 (대리~과장)",
+            "employeeCount": "null",
+            "profit": "837억 4,772만원                                                                    (2023년 기준)"
+        },
+        "47813068": {
+            "companyName": "우튼주식회사",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "온라인 마케터 정규직 채용공고",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47813268": {
+            "companyName": "(주)코마스인터렉티브",
+            "phoneNumbers": "02-539-9171",
+            "email": "webmaster@icomas.co.kr",
+            "homepageUrl": "www.comasinteractive.co.kr",
+            "jobTitle": "[디지털 광고대행사]디지털AE 신입/경력직 모집",
+            "employeeCount": "67 명  (2024년 기준)",
+            "profit": "148억 2,894만원                                                                    (2022년 기준)"
+        },
+        "47813304": {
+            "companyName": "(주)씨아이템프러리",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.citemp.co.kr",
+            "jobTitle": "[현대카드/본사] PLCC오토2팀 상품/운영 업무 담당 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47813624": {
+            "companyName": "에스테이트클라우드(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "woodaebbang.com",
+            "jobTitle": "콘텐츠/바이럴 마케터 채용",
+            "employeeCount": "26 명  (2024년 기준)",
+            "profit": "4억 4,000만원                                                                    (2022년 기준)"
+        },
+        "47813666": {
+            "companyName": "(주)컨필코퍼레이션",
+            "phoneNumbers": "070-8098-5876",
+            "email": "contact@confeel.co.kr",
+            "homepageUrl": "confeel.kr",
+            "jobTitle": "젊은 스타트업에서 함께 할 신입, 경력분을 채용 합니다.",
+            "employeeCount": "6 명  (2021년 기준)",
+            "profit": "11억 6,432만원                                                                    (2021년 기준)"
+        },
+        "47814013": {
+            "companyName": "(주)유큐브",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.u-cube.kr",
+            "jobTitle": "[서울본사]전략기획실 전략기획팀 경력사원 모집",
+            "employeeCount": "117 명  (2024년 기준)",
+            "profit": "141억 6,746만원                                                                    (2022년 기준)"
+        },
+        "47814189": {
+            "companyName": "특허법인테헤란(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[법률그룹 테헤란] 광고지원그룹 브랜딩 기획 총괄(팀장급) 채용",
+            "employeeCount": "43 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47814223": {
+            "companyName": "(주)린컴퍼니",
+            "phoneNumbers": "02-3218-5105",
+            "email": "customercare@bylynn.shop",
+            "homepageUrl": "bylynn.co.kr",
+            "jobTitle": "[격주 4.5일 근무] 린컴퍼니 홍보팀(콘텐츠비주얼) 채용",
+            "employeeCount": "167 명  (2017년 기준)",
+            "profit": "1,070억 6,459만원                                                                    (2017년 기준)"
+        },
+        "47814802": {
+            "companyName": "(주)에스테이트",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "sec.hrdncs.co.kr/",
+            "jobTitle": "구디아카데미 사무행정 직무별 인턴 모집 (일경험청년인턴)",
+            "employeeCount": "29 명  (2017년 기준)",
+            "profit": "null"
+        },
+        "47815009": {
+            "companyName": "(주)나인웨어",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www. nineware.co.kr",
+            "jobTitle": "[나인웨어] SNS 운영관리자 (프리랜서)",
+            "employeeCount": "25 명  (2020년 기준)",
+            "profit": "61억 2,720만원                                                                    (2020년 기준)"
+        },
+        "47815281": {
+            "companyName": "에프알엘코리아(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "uniqlo.scout.co.kr/",
+            "jobTitle": "[유니클로] 홍보실 PR Specialist 모집 [PR Part]",
+            "employeeCount": "null",
+            "profit": "1조 2,376억 5,730만원                                                                    (2017년 기준)"
+        },
+        "47815324": {
+            "companyName": "(주)율성푸드랩",
+            "phoneNumbers": "070-7425-7740, 070-7427-7741",
+            "email": "070-7427-7741support@yulsungfoodlab.com",
+            "homepageUrl": "yulsungfoodlab.com",
+            "jobTitle": "[식품]브랜드매니저(영업전략/제품기획/마케팅기획)",
+            "employeeCount": "30 명  (2021년 기준)",
+            "profit": "310억 8,645만원                                                                    (2021년 기준)"
+        },
+        "47815342": {
+            "companyName": "지머니트랜스(주)",
+            "phoneNumbers": "1670-4565",
+            "email": "null",
+            "homepageUrl": "www.gmoneytrans.com",
+            "jobTitle": "[핀테크] 중국 고객 대응 팀 채용 (정직원, 아르바이트)",
+            "employeeCount": "150 명  (2022년 기준)",
+            "profit": "182억 5,961만원                                                                    (2022년 기준)"
+        },
+        "47815638": {
+            "companyName": "(주)위더스애드",
+            "phoneNumbers": "null",
+            "email": "contact@withusad.co.kr",
+            "homepageUrl": "www.withusad.co.kr/",
+            "jobTitle": "[디지털종합광고대행사] 퍼포먼스AE(팀장) 채용",
+            "employeeCount": "47 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47815673": {
+            "companyName": "한국국제협력단",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.koica.go.kr",
+            "jobTitle": "2024년 한국국제협력단 일반직 및 사회형평적 신입직원 채용 공고",
+            "employeeCount": "796 명  (2024년 기준)",
+            "profit": "7,323억 4,749만원                                                                    (2017년 기준)"
+        },
+        "47815990": {
+            "companyName": "(주)레인보우8",
+            "phoneNumbers": "null",
+            "email": "adn_team@rainbow.co.krCopyright",
+            "homepageUrl": "www.rainbow.co.kr",
+            "jobTitle": "온라인 배너 DA광고 플랫폼 운영 마케터 (신입/경력)",
+            "employeeCount": "37 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47816005": {
+            "companyName": "(주)레인보우8",
+            "phoneNumbers": "null",
+            "email": "adn_team@rainbow.co.krCopyright",
+            "homepageUrl": "www.rainbow.co.kr",
+            "jobTitle": "ADN 네트워크 매체 마케터 신입/경력 채용",
+            "employeeCount": "37 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47816065": {
+            "companyName": "(주)어리플이펙트",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[상품 MD] 시장 분석과 상품 기획 부문 인재 모집",
+            "employeeCount": "3 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47816353": {
+            "companyName": "(주)뉴즈",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[2024 상반기 공채] 숏폼 MCN 메이저스 PD / 마케터",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47816375": {
+            "companyName": "(주)에스유스카우트",
+            "phoneNumbers": "02-565-3977",
+            "email": "null",
+            "homepageUrl": "www.suscout.com",
+            "jobTitle": "[여행플랫폼] Marketing Data Analysis & Engineer",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47816743": {
+            "companyName": "",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47816817": {
+            "companyName": "에이치알코어스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.hrcores.co.kr",
+            "jobTitle": "PR 경력",
+            "employeeCount": "20 명  (2012년 기준)",
+            "profit": "null"
+        },
+        "47817065": {
+            "companyName": "스타캠퍼스 인터내셔날",
+            "phoneNumbers": "02-3453-3003, 02-3453-0669",
+            "email": "null",
+            "homepageUrl": "www.starcampus.co.kr",
+            "jobTitle": "홍보 및 커뮤니케이션 (대리 ~ 과장급)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47817949": {
+            "companyName": "(주)탈잉",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://taling.me",
+            "jobTitle": "[탈잉] 마케터 인턴 채용",
+            "employeeCount": "16 명  (2024년 기준)",
+            "profit": "91억 8,250만원                                                                    (2020년 기준)"
+        },
+        "47818034": {
+            "companyName": "(주)트레이블",
+            "phoneNumbers": "070-4770-7935",
+            "email": "admin@trable.co.kr",
+            "homepageUrl": "www.trable.co.kr",
+            "jobTitle": "온라인 MD / AMD (경력무관)",
+            "employeeCount": "6 명  (2022년 기준)",
+            "profit": "21억 1,252만원                                                                    (2022년 기준)"
+        },
+        "47818245": {
+            "companyName": "",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47818791": {
+            "companyName": "(주)키메디",
+            "phoneNumbers": "02-6280-6393, 02-540-0703",
+            "email": "keymedi@keymedi.com",
+            "homepageUrl": "www.keymedi.com",
+            "jobTitle": "플랫폼사업본부 서비스 운영 경력 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47818871": {
+            "companyName": "(주)사람엔터테인먼트",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[사람엔터테인먼트] 광고팀 팀장 및 팀원 채용",
+            "employeeCount": "45 명  (2024년 기준)",
+            "profit": "135억 9,961만원                                                                    (2018년 기준)"
+        },
+        "47819545": {
+            "companyName": "한국아즈빌(주)",
+            "phoneNumbers": "2010-2024",
+            "email": "null",
+            "homepageUrl": "http://kr.azbil.com",
+            "jobTitle": "2024년 각 부문 사원 채용",
+            "employeeCount": "134 명  (2024년 기준)",
+            "profit": "121억 8,757만원                                                                    (2023년 기준)"
+        },
+        "47820143": {
+            "companyName": "(주)온오퍼",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[ONOFFER] SNS 콘텐츠 제작 마케터 구인",
+            "employeeCount": "9 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47820216": {
+            "companyName": "(주)파인디지털",
+            "phoneNumbers": "31-788-8800, 31-788-8720",
+            "email": "null",
+            "homepageUrl": "www.finedigital.com",
+            "jobTitle": "[파인뷰] 영업 부문 신입/경력 채용 (사원급)",
+            "employeeCount": "160 명  (2020년 기준)",
+            "profit": "880억원                                                                    (2020년 기준)"
+        },
+        "47820538": {
+            "companyName": "엔터웨이파트너스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.nterway.com",
+            "jobTitle": "WEB 3.0 Project Owner-대기업 인하우스 광고대행사",
+            "employeeCount": "53 명  (2015년 기준)",
+            "profit": "null"
+        },
+        "47820941": {
+            "companyName": "(주)동광인터내셔날",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.e-dongkwang.co.kr",
+            "jobTitle": "[SOUP] 패션기업 동광인터내셔날 온라인MD 경력 채용",
+            "employeeCount": "170 명  (2016년 기준)",
+            "profit": "1,001억 4,369만원                                                                    (2016년 기준)"
+        },
+        "47821455": {
+            "companyName": "(주)와이더블유에프엔비",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[화장품/생활용품] 온라인 MD (경력)",
+            "employeeCount": "10 명  (2024년 기준)",
+            "profit": "22억 7,766만원                                                                    (2022년 기준)"
+        },
+        "47821535": {
+            "companyName": "(주)비자인크리에이티브",
+            "phoneNumbers": "02-6351-3455",
+            "email": "info@besign.co.kr",
+            "homepageUrl": "www.besign.co.kr",
+            "jobTitle": "[비자인] 2024 상반기 기획팀 AE 신입 및 경력 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47821757": {
+            "companyName": "재미애드",
+            "phoneNumbers": "070-7537-3989",
+            "email": "Marketingking@gemmyad.com",
+            "homepageUrl": "http://gemmyad.com/",
+            "jobTitle": "웹디자이너 및 온라인 마케터 채용",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47821798": {
+            "companyName": "(주)에스브이",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.svcorps.com",
+            "jobTitle": "[SV그룹] 이커머스 운영 및 운영지원 부문 신입 및 경력 모집",
+            "employeeCount": "38 명  (2020년 기준)",
+            "profit": "94억 9,776만원                                                                    (2020년 기준)"
+        },
+        "47821990": {
+            "companyName": "(주)에임즈인터내셔널코리아",
+            "phoneNumbers": "null",
+            "email": "edward@aimskorea.com",
+            "homepageUrl": "www.aimskorea.com",
+            "jobTitle": "[브랜드샵 화장품사] 글로벌 MC 팀장  (경력 8~16년/ 일어 우대)",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47822211": {
+            "companyName": "엔터웨이파트너스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.nterway.com",
+            "jobTitle": "반도체디바이스 Sales & Marketing 담당(사원대리급)",
+            "employeeCount": "53 명  (2015년 기준)",
+            "profit": "null"
+        },
+        "47823150": {
+            "companyName": "(주)성장",
+            "phoneNumbers": "1800-8065, 02-6455-8064",
+            "email": "contact@growthmk.com, ae@growthmk.com",
+            "homepageUrl": "growthmk.com",
+            "jobTitle": "(재택근무/화상면접) 영업X 출근X 광고대행사 체험단 매니저",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47823160": {
+            "companyName": "(주)비에이블컨설팅그룹",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.babcg.com",
+            "jobTitle": "[뷰티브랜드 글로벌 기업] 북미 틱톡 바이럴 마케터 모집",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47823195": {
+            "companyName": "㈜한국맨프로",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.manpro.co.kr",
+            "jobTitle": "[롯데홈쇼핑 M리빙팀] 생활/건강 파트 온라인AMD",
+            "employeeCount": "350 명  (2009년 기준)",
+            "profit": "null"
+        },
+        "47823423": {
+            "companyName": "(주)브레드앤로즈",
+            "phoneNumbers": "070-8869-0308, 005-603-4056",
+            "email": "peter@breadnrose.com, yeonghun.yoon@breadnrose.com",
+            "homepageUrl": "better-day.kr/",
+            "jobTitle": "인플루언서 커머스 매니저 모집",
+            "employeeCount": "19 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47823484": {
+            "companyName": "(주)맨파워그룹코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://manpower.co.kr",
+            "jobTitle": "[역삼/급여협의] 글로벌 엔터테인먼트기업 Marketing Admin",
+            "employeeCount": "11,000 명  (2023년 기준)",
+            "profit": "1,400억원                                                                    (2023년 기준)"
+        },
+        "47824111": {
+            "companyName": "(주)모티바코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "motivaimplants.co.kr",
+            "jobTitle": "영업 경력직 과장급 채용",
+            "employeeCount": "39 명  (2024년 기준)",
+            "profit": "332억 8,542만원                                                                    (2022년 기준)"
+        },
+        "47824137": {
+            "companyName": "(주)모티바코리아",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "motivaimplants.co.kr",
+            "jobTitle": "영업 경력직 대리~주임급 채용",
+            "employeeCount": "39 명  (2024년 기준)",
+            "profit": "332억 8,542만원                                                                    (2022년 기준)"
+        },
+        "47824325": {
+            "companyName": "프로페셔날핸즈인핸즈코리아(주)",
+            "phoneNumbers": "02-567-1750, 02-567-1833",
+            "email": "ceo@prohanzkorea.co.kr",
+            "homepageUrl": "http://www.prohanzkorea.com",
+            "jobTitle": "유명화장품(브랜드샵) 색조BM(6-13년)",
+            "employeeCount": "45 명  (2022년 기준)",
+            "profit": "40억원                                                                    (2022년 기준)"
+        },
+        "47824338": {
+            "companyName": "(주)푸시버튼스페이스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[pushBUTTON] 각 부문별 채용공고",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47824712": {
+            "companyName": "갤러리아피부과",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[갤러리아피부과] 네트워크 피부과 디자이너 채용 공고",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47825052": {
+            "companyName": "(주)씨드젠",
+            "phoneNumbers": "02-786-9601, 02-786-9602",
+            "email": "sales@seedgen.kr",
+            "homepageUrl": "www.seedgen.kr",
+            "jobTitle": "영업기획부 팀원 모집 (신입/경력무관)",
+            "employeeCount": "41 명",
+            "profit": "56억 1,281만원                                                                    (2023년 기준)"
+        },
+        "47825116": {
+            "companyName": "(주)브이비젼",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "[중견 주류도매 기업] BM",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47826053": {
+            "companyName": "에이스휴먼파워(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.acehp.co.kr",
+            "jobTitle": "[재택/에디터] 쿠팡 PBS 본사 Creative stduio (Edit) 채용",
+            "employeeCount": "4,500 명  (2022년 기준)",
+            "profit": "919억 3,800만원                                                                    (2022년 기준)"
+        },
+        "47826825": {
+            "companyName": "(주)라이온기획",
+            "phoneNumbers": "null",
+            "email": "cs@lionplan.co.kr",
+            "homepageUrl": "www.lionplan.co.kr/",
+            "jobTitle": "(주)라이온기획 라이브커머스 MD 경력 채용",
+            "employeeCount": "10 명  (2023년 기준)",
+            "profit": "1,110만원                                                                    (2021년 기준)"
+        },
+        "47827040": {
+            "companyName": "(주)스카우트파트너스",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://www.scoutpartners.co.kr",
+            "jobTitle": "[대기업계열사] 에너지 사업 전략기획 경력직 모집",
+            "employeeCount": "12 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47827286": {
+            "companyName": "체르엠(주)",
+            "phoneNumbers": "02-6433-6898, 1833-5581, 005-703-1853, 02-2624-4142",
+            "email": "help@cherem.co.kr",
+            "homepageUrl": "www.cherem.co.kr",
+            "jobTitle": "온라인 MD  직원 채용",
+            "employeeCount": "7 명  (2024년 기준)",
+            "profit": "109억 3,426만원                                                                    (2021년 기준)"
+        },
+        "47827609": {
+            "companyName": "",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47827894": {
+            "companyName": "굿에이치알",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "http://goodhr.co.kr",
+            "jobTitle": "[강남 논현] 광고대행사 퍼포먼스 마케터 중간관리자급",
+            "employeeCount": "11 명  (2019년 기준)",
+            "profit": "null"
+        },
+        "47828004": {
+            "companyName": "(주)트랜스코스모스코리아",
+            "phoneNumbers": "790-8272, 1899-1632, 489-7505, 877-6817",
+            "email": "null",
+            "homepageUrl": "www.trans-cosmos.co.kr",
+            "jobTitle": "[선릉역 / 클래스 101] CRM 마케터 채용",
+            "employeeCount": "null",
+            "profit": "2,810억 3,558만원                                                                    (2019년 기준)"
+        },
+        "47828237": {
+            "companyName": "킴벌리",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.hrkimberly.co.kr",
+            "jobTitle": "Marketing Director - 외국계 소비재 회사",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47829949": {
+            "companyName": "(주)퍼플링크",
+            "phoneNumbers": "02-541-9958, 02-541-9943",
+            "email": "purplelink@purplelink.krCopyright",
+            "homepageUrl": "https://purplelink.kr/",
+            "jobTitle": "온라인 MD 경력직(3년 이상) 채용",
+            "employeeCount": "23 명  (2024년 기준)",
+            "profit": "null"
+        },
+        "47829999": {
+            "companyName": "(주)온스트림",
+            "phoneNumbers": "02-6412-4006, 02-6007-9876",
+            "email": "ons@onst.co.kr",
+            "homepageUrl": "www.onst.co.kr",
+            "jobTitle": "공학용(CAE) 소프트웨어(ANSYS) 관련 기획 및 제안 업무",
+            "employeeCount": "18 명  (2023년 기준)",
+            "profit": "41억 1,155만원                                                                    (2023년 기준)"
+        },
+        "47830383": {
+            "companyName": "",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "",
+            "employeeCount": "null",
+            "profit": "null"
+        },
+        "47830406": {
+            "companyName": "프로페셔날핸즈인핸즈코리아(주)",
+            "phoneNumbers": "02-567-1750, 02-567-1833",
+            "email": "ceo@prohanzkorea.co.kr",
+            "homepageUrl": "http://www.prohanzkorea.com",
+            "jobTitle": "와인 주류 브랜드매니저 경력 채용",
+            "employeeCount": "45 명  (2022년 기준)",
+            "profit": "40억원                                                                    (2022년 기준)"
+        },
+        "47830532": {
+            "companyName": "아자스쿨(주)",
+            "phoneNumbers": "null",
+            "email": "help@ajaschool.co.kr",
+            "homepageUrl": "https://www.ajaschool.com",
+            "jobTitle": "아자스쿨의 온드미디어를 성장시킬 SNS 콘텐츠 마케터 모집",
+            "employeeCount": "12 명  (2022년 기준)",
+            "profit": "23억 5,000만원                                                                    (2022년 기준)"
+        },
+        "47831488": {
+            "companyName": "(주)한국존슨앤드존슨",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.careers.jnj.com",
+            "jobTitle": "[존슨앤드존슨 비전케어] Marketing Coordinator - Fixed Term",
+            "employeeCount": "null",
+            "profit": "229억 4,546만원                                                                    (2022년 기준)"
+        },
+        "47831657": {
+            "companyName": "한국존슨앤드존슨메디칼(주)",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "www.jnjmed.co.kr",
+            "jobTitle": "[JLABS Korea] Strategic Marketing Associate Director",
+            "employeeCount": "null",
+            "profit": "2,801억 5,176만원                                                                    (2022년 기준)"
+        },
+        "47831750": {
+            "companyName": "한스컨설팅",
+            "phoneNumbers": "null",
+            "email": "null",
+            "homepageUrl": "null",
+            "jobTitle": "코스닥 상장, 신사동 위치 피부과 제약회사 성형외과영업",
+            "employeeCount": "10 명  (2012년 기준)",
+            "profit": "5억원                                                                    (2012년 기준)"
+        }

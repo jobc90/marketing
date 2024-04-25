@@ -3,23 +3,23 @@
 /config/dev.js
 
 # dependencies
-/naver-auto-front/node_modules
-/naver-auto-front/.pnp
-/naver-auto-front/pnp.js
+/marketing-front/node_modules
+/marketing-front/.pnp
+/marketing-front/pnp.js
 
 # testing
-/naver-auto-front/coverage
+/marketing-front/coverage
 
 # production
-/naver-auto-front/build
+/marketing-front/build
 
 # misc
-/naver-auto-front/DS_Store
-/naver-auto-front/env.local
-/naver-auto-front/env.development.local
-/naver-auto-front/env.test.local
-/naver-auto-front/env.production.local
+/marketing-front/DS_Store
+/marketing-front/env.local
+/marketing-front/env.development.local
+/marketing-front/env.test.local
+/marketing-front/env.production.local
 
-/naver-auto-front/npm-debug.log*
-/naver-auto-front/yarn-debug.log*
-/naver-auto-front/yarn-error.log*
+/marketing-front/npm-debug.log*
+/marketing-front/yarn-debug.log*
+/marketing-front/yarn-error.log*

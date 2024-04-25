@@ -12,6 +12,9 @@ app.use(express.urlencoded({ extended: true }));
 
 var cors = require("cors");
 app.use(cors({ origin: "http://localhost:3000", credentials: true }));
+//brower
+const browserController = require("./browser-controller");
+browserController.initBrowsers();
 
 const users = require("./routes/users");
 const controller = require("./routes/puppeteerController");
@@ -21,14 +24,15 @@ app.use("/api/users", users);
 app.use("/controller", controller);
 app.use("/mongo", mongo);
 
-app.use(express.static(path.join(__dirname, "naver-auto-front/build")));
+app.use(express.static(path.join(__dirname, "marketing-front/build")));
 
 app.get("*", function (req, res) {
   res.sendFile(path.join(__dirname, "/react-project/build/index.html"));
 });
 
-app.listen(80, function () {
-  console.log("listening on 80");
+const PORT = 3002;
+app.listen(PORT, function () {
+  console.log(`listening on ${PORT}`);
 });
 
 mongoose
