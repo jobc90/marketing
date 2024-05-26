@@ -122,9 +122,61 @@ const businessPreparation = async (hashCode) => {
   // 홈택스 이동후 간편인증 클릭
   try {
     try {
-      await homtaxPage.goto("https://www.saramin.co.kr/zf_user/auth", {
-        waitUntil: "networkidle2",
-      });
+      await homtaxPage.goto(
+        "https://www.hometax.go.kr/websquare/websquare.wq?w2xPath=/ui/pp/index_pp.xml&tmIdx=0&tm2lIdx=100907&tm3lIdx=",
+        {
+          waitUntil: "networkidle2",
+        }
+      );
+
+      await homtaxPage.waitForTimeout(1000);
+      const veraport = await homtaxPage.waitForSelector("#textbox1");
+      await veraport.click();
+      await homtaxPage.waitForTimeout(10000);
+      const frame = await homtaxPage
+        .frames()
+        .find((frame) => frame.name() === "txppIframe");
+      const safeText = await frame.$eval(
+        "#object_status_E-SAFER-NX",
+        (element) => element.textContent
+      );
+      console.log("Element text:", safeText);
+      const safe = await frame.waitForSelector("#download_E-SAFER-NX");
+      await safe.click();
+      await homtaxPage.waitForTimeout(1000);
+      const ipinsideText = await frame.$eval(
+        "#object_status_IPINSIDE-NX",
+        (element) => element.textContent
+      );
+      console.log("Element text:", ipinsideText);
+      const ipinside = await frame.waitForSelector("#download_IPINSIDE-NX");
+      await ipinside.click();
+      await homtaxPage.waitForTimeout(1000);
+      const magicText = await frame.$eval(
+        "#object_status_MAGIC-XML-NX",
+        (element) => element.textContent
+      );
+      console.log("Element text:", magicText);
+      const [magic] = await frame.$x(
+        "//a[@id='download_MAGIC-PKI-NX' and contains(@title, '전자서명 프로그램 파일다운로드')]"
+      );
+      await magic.click();
+      await homtaxPage.waitForTimeout(1000);
+      const uploadText = await frame.$eval(
+        "#object_status_KUPLOAD",
+        (element) => element.textContent
+      );
+      console.log("Element text:", uploadText);
+      const upload = await frame.waitForSelector("#download_KUPLOAD");
+      await upload.click();
+      await homtaxPage.waitForTimeout(1000);
+      const agreeText = await frame.$eval(
+        "#object_status_MAGIC-PKI-NX",
+        (element) => element.textContent
+      );
+      console.log("Element text:", agreeText);
+      const agree = await frame.waitForSelector("#download_MAGIC-PKI-NX");
+      await agree.click();
     } catch (error) {
       console.error("홈페이지 이동 후 로그인 클릭에서 에러 발생함.", error);
       return;
