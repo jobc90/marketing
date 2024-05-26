@@ -132,7 +132,8 @@ const businessPreparation = async (hashCode) => {
       await homtaxPage.waitForTimeout(1000);
       const veraport = await homtaxPage.waitForSelector("#textbox1");
       await veraport.click();
-      await homtaxPage.waitForTimeout(10000);
+      await homtaxPage.waitForTimeout(15000);
+      console.log("보안프로그램");
       const frame = await homtaxPage
         .frames()
         .find((frame) => frame.name() === "txppIframe");
